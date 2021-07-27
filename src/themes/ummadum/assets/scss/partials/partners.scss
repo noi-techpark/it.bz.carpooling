@@ -1,0 +1,28 @@
+.partners-list {
+  text-align: center;
+  overflow: scroll;
+  white-space: nowrap;
+  margin-top: 40px;
+
+  .partner {
+    display: inline-block;
+    margin: 0 25px;
+
+    img {
+      height: 130px;
+    }
+
+    p {
+      text-align: center;
+      color: $link-hover !important;
+      padding: 10px 0;
+    }
+  }
+}
+
+@media (max-width: 979px) {
+  .partners-list {
+    width: 100vw;
+    margin-left: -5vw;
+  }
+}

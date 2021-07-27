@@ -1,0 +1,25 @@
+{{" <!-- Boxes -->" | safeHTML }}
+<section class="generic-accordions">
+    <div class="container">
+        <div class="col col-12 col-lg-12 square card">
+            <h3 class="text-center">{{.title}}</h6>
+        </div>
+
+        {{ range .accordion }}
+			{{"<!-- Single Box Item -->" | safeHTML }}
+			<div class="col-lg-12 col-md-12 col-12 square">
+                <div class="accordion closed">
+                    <div class="accordion-btn">
+                        {{.question}}
+                        <div class="icon-down"></div>
+                    </div>
+                    <div class="accordion-content">
+                        <p>{{ .answer | markdownify }}</p>
+                    </div>
+                </div>
+			</div>
+			{{"<!-- /Single Box Item -->" | safeHTML }}
+        {{ end }}
+    </div>
+</section>
+{{" <!-- /Boxes -->" | safeHTML }}

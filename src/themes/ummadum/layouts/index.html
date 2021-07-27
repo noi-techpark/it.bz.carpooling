@@ -1,0 +1,30 @@
+{{ partial "header.html" . }}
+
+{{ $data := index .Site.Data .Site.Language.Lang }}
+<div id="home">
+
+  {{ partial "generic-offset-image.html" $data.home.offset_image }}
+
+	{{ partial "col-images.html" $data.home.community }}
+
+	{{ partial "img-text.html" $data.home.discover_partner }}
+
+	{{ partial "text-img.html" $data.home.discover_community }}
+
+  {{ partial "steps.html" $data.home.steps }}
+
+	<section class="partners-ct">
+
+  	{{ partial "title-and-content.html" $data.home.become_partner }}
+
+		{{ partial "generic-boxes.html" $data.home.boxes }}
+
+		{{ partial "partners.html" $data.home.partners }}
+		
+	</section>
+
+	{{ partial "generic-accordions.html" $data.home.faq }}
+
+  {{ partial "footer.html" . }}
+
+</div>

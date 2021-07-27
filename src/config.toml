@@ -1,0 +1,206 @@
+baseURL = "https://ummadum.com/"
+languageCode = "en-us"
+defaultContentLanguage = "en"
+title = "Ummadum Carpooling"
+theme = "ummadum"
+googleAnalytics = ""
+
+[imaging]
+resampleFilter = "box"
+quality = 10
+
+[params]
+favicon = "/favicon.png"
+
+[params.partner]
+link = "#"
+logo = "/img/partner.svg"
+
+[languages.en]
+weight = 0
+languageName = "English"
+contentDir = "content/en"
+
+[[languages.en.menu.main]]
+url    = "#"
+name   = "How does it work"
+weight = 10
+
+[[languages.en.menu.main]]
+url    = "#"
+name   = "Partner"
+weight = 20
+
+[[languages.en.menu.main]]
+url    = "#"
+name   = "FAQ"
+weight = 30
+
+[[languages.en.menu.main]]
+url    = "#"
+name   = "Book a travel"
+weight = 40
+
+[languages.it]
+weight = 20
+contentDir = "content/it/"
+languageName = "Italiano"
+
+[[languages.it.menu.main]]
+url    = "#how-does-it-work"
+name   = "Come funziona"
+weight = 10
+
+[[languages.it.menu.main]]
+url    = "#partner"
+name   = "Partner"
+weight = 20
+
+[[languages.it.menu.main]]
+url    = "#faq"
+name   = "Domande frequenti"
+weight = 30
+
+[[languages.it.menu.main]]
+url    = "/book"
+name   = "Prenota un viaggio"
+weight = 40
+
+[languages.de]
+weight = 10
+contentDir = "content/de/"
+languageName = "Deutsch"
+
+[[languages.de.menu.main]]
+url    = "#how-does-it-work"
+name   = "Wie es funktioniert"
+weight = 10
+
+[[languages.de.menu.main]]
+url    = "#partner"
+name   = "Partner"
+weight = 20
+
+[[languages.de.menu.main]]
+url    = "#faq"
+name   = "FAQ"
+weight = 30
+
+[[languages.de.menu.main]]
+url    = "/book"
+name   = "Buche eine Fahrt"
+weight = 40
+
+
+######################################## FOOTER
+
+[params.footer]
+copyright = "NOI AG - Via Volta 13/A, I-39100 Bolzano - VAT No.: XXX - Endowment capital XXX € - [Privacy](#)"
+
+[languages.en.footer1]
+title = "The project"
+
+[[languages.en.menu.footer1]]
+url    = "#"
+name   = "Pricing"
+weight = 10
+
+[[languages.en.menu.footer1]]
+url    = "#"
+name   = "Community"
+weight = 20
+
+[[languages.en.menu.footer1]]
+url    = "#"
+name   = "For companies"
+weight = 30
+
+[[languages.en.menu.footer1]]
+url    = "#"
+name   = "Financing"
+weight = 40
+
+[languages.it.footer1]
+title = "Il progetto"
+
+[[languages.it.menu.footer1]]
+url    = "#"
+name   = "Prezzario"
+weight = 10
+
+[[languages.it.menu.footer1]]
+url    = "#"
+name   = "Community"
+weight = 20
+
+[[languages.it.menu.footer1]]
+url    = "#"
+name   = "Per aziende"
+weight = 30
+
+[[languages.it.menu.footer1]]
+url    = "#"
+name   = "Finanziamento"
+weight = 40
+
+[languages.de.footer1]
+title = "The project"
+
+[[languages.de.menu.footer1]]
+url    = "#"
+name   = "Preise"
+weight = 10
+
+[[languages.de.menu.footer1]]
+url    = "#"
+name   = "Community"
+weight = 20
+
+[[languages.de.menu.footer1]]
+url    = "#"
+name   = "For companies"
+weight = 30
+
+[[languages.de.menu.footer1]]
+url    = "#"
+name   = "Financing"
+weight = 40
+
+[languages.en.footer2]
+title = "Carpooling for"
+
+[[languages.en.menu.footer2]]
+url    = "#"
+name   = "Users"
+weight = 10
+
+[[languages.en.menu.footer2]]
+url    = "#"
+name   = "Driver"
+weight = 20
+
+[languages.it.footer2]
+title = "Carpooling per"
+
+[[languages.it.menu.footer2]]
+url    = "#"
+name   = "Utenti"
+weight = 10
+
+[[languages.it.menu.footer2]]
+url    = "#"
+name   = "Autisti"
+weight = 20
+
+[languages.de.footer2]
+title = "Carpooling für"
+
+[[languages.de.menu.footer2]]
+url    = "#"
+name   = "Benutzer"
+weight = 10
+
+[[languages.de.menu.footer2]]
+url    = "#"
+name   = "Fahrer"
+weight = 20

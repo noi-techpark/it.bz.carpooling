@@ -1,0 +1,23 @@
+{{" <!-- Boxes -->" | safeHTML }}
+<section class="generic-boxes">
+    <div class="container container-boxes">
+        {{ range .box }}
+			{{"<!-- Single Box Item -->" | safeHTML }}
+			<div class="col-lg-4 col-md-6 col-12 square">
+				<a href="{{ .box_link }}" class="single-box-block bg-link">
+                    <div class="single-box-content">
+                        <div class="single-box-text">
+                            <h6>{{ .name | markdownify }}</h6>
+                            <p>{{ .content | markdownify }}</p>
+                        </div>
+                        <div class="single-box-button">
+                            <div class="btn btn-primary">{{ .btn_label | markdownify }}</div>
+                        </div>
+                    </div>
+				</a>
+			</div>
+			{{"<!-- /Single Box Item -->" | safeHTML }}
+        {{ end }}
+    </div>
+</section>
+{{" <!-- /Boxes -->" | safeHTML }}
