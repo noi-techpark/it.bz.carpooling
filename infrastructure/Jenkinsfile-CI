@@ -1,0 +1,15 @@
+pipeline {
+    agent {
+        dockerfile {
+            filename 'infrastructure/docker/dockerfile-hugo'
+        }
+    }
+    
+    stages {
+        stage('Test') {
+            steps {
+                sh 'hugo -s src -d target'
+            }
+        }
+    }
+}
