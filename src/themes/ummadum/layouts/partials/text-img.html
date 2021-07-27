@@ -1,0 +1,39 @@
+{{"<!-- Img - Text -->" | safeHTML }}
+<section class="img-text-img">
+  <div class="text-img">
+    <div class="background-absolute">
+      <div
+        class="col col-12 col-sm-6 col-md-6 col-lg-6 bg-image no-mobile"
+      ></div>
+      <div
+        class="col col-12 col-sm-6 col-md-6 col-lg-6 bg-image"
+        style="background-image: url('{{.img_link}}');"
+      ></div>
+    </div>
+
+    <div class="container">
+      <div class="row">
+        <div class="col col-12 col-sm-5 col-md-5 col-lg-5 square card">
+          <h3>{{.title}}</h3>
+          <p>{{.content}}</p>
+          <a href="{{.cta_link}}">
+            <div class="btn btn-link">{{ .cta_label }}</div>
+          </a>
+        </div>
+        <div class="col col-sm-2 col-md-2 col-lg-2"></div>
+        <div class="col col-12 col-sm-5 col-md-5 col-lg-5 square card">
+          <p></p>
+        </div>
+      </div>
+
+      {{ if .text_overlay }}
+      <div class="row">
+        <div class="col col-12 col-sm-12 col-lg-12 card text-center">
+          <h6 class="semi-opacity">{{ .text_overlay }}</h6>
+        </div>
+      </div>
+      {{ end }}
+    </div>
+  </div>
+</section>
+{{"<!-- /Img - Text -->" | safeHTML }}

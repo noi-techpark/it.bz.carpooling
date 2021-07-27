@@ -1,0 +1,22 @@
+.col-images {
+    .row {
+        text-align: center;
+
+        a {
+            &:hover {
+                text-decoration: none !important;
+            }
+
+            img {
+                max-width: 300px;
+                width: auto;
+                padding: 1rem 5rem;
+            }
+        }
+
+        p {
+            font-size: 1.8rem !important;
+            margin-bottom: 0 !important;
+        }
+    }
+}

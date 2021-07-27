@@ -1,0 +1,135 @@
+section.steps {
+  .row {
+    margin: 5rem 0;
+    font-size: 1.8rem !important;
+
+    h1,
+    h2,
+    h3,
+    h6,
+    p {
+      color: $primary !important;
+    }
+
+    h3 {
+      font-size: 3.5rem !important;
+    }
+
+    h6 {
+      font-size: 2.5rem !important;
+      font-weight: bold;
+    }
+
+    p {
+      max-width: 400px;
+    }
+
+    .col.flex {
+      display: flex;
+      padding: 0 !important;
+      img {
+        width: 100%;
+        align-self: center;
+      }
+    }
+
+    .step_count {
+      border: 2px solid $primary;
+      border-radius: 50%;
+      height: 5rem;
+      width: 5rem;
+      display: flex;
+      div {
+        color: $primary !important;
+        width: 100%;
+        text-align: center;
+        align-self: center;
+        font-size: 1.8rem;
+        font-weight: bold;
+      }
+    }
+
+    &.left-aligned {
+      justify-content: left;
+    }
+  }
+}
+
+section.ipo {
+  font-size: 1.8rem !important;
+  padding: 0;
+
+  .img-text {
+    .col.bg-image {
+      background-color: $link;
+    }
+
+    h1,
+    h2,
+    h3,
+    p {
+      color: $primary !important;
+    }
+  }
+
+  .text-img {
+    .col.bg-image {
+      background-color: white;
+    }
+
+    h1,
+    h2,
+    h3,
+    p {
+      color: $link !important;
+    }
+  }
+
+  & > div {
+    position: relative;
+
+    .background-absolute {
+      position: absolute !important;
+      z-index: 0;
+      height: 100%;
+      width: 100%;
+
+      .col.bg-image {
+        height: 100%;
+        background-position: center;
+        background-size: cover;
+        background-repeat: no-repeat;
+      }
+    }
+  }
+
+  .container {
+    padding: 10rem 0 !important;
+    background-color: transparent;
+
+    .semi-opacity {
+      position: absolute;
+      width: 100%;
+      margin-top: 2.5rem;
+      font-size: 3rem;
+      font-weight: bold;
+      color: rgba(255, 255, 255, 0.7);
+    }
+
+    .row {
+      .col {
+        align-self: center;
+      }
+    }
+  }
+}
+
+@media (max-width: 978px) {
+  section.steps {
+    .row {
+      & .text-ct {
+        padding: 10px 0 0 0;
+      }
+    }
+  }
+}

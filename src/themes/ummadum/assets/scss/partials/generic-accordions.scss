@@ -1,0 +1,62 @@
+section.generic-accordions {
+  padding: 10rem 0;
+  background-color: $blue;
+  color: $primary;
+  font-size: 1.8rem;
+
+  .accordion {
+    border-bottom: 1px solid $primary;
+    max-width: 800px;
+    margin: 0 auto;
+
+    &.closed {
+      .accordion-btn .icon-down {
+        transform: none;
+        transition: all 0.5s ease;
+      }
+      .accordion-content {
+        max-height: 0;
+        overflow: hidden;
+      }
+    }
+    .accordion-btn {
+      padding: 1rem 0;
+      cursor: pointer;
+      .icon-down {
+        height: 2rem;
+        width: 2rem;
+        float: right;
+        background-image: url("/icon/down-arrow-primary.png");
+        background-size: contain;
+        transform: rotateX(180deg);
+        transition: all 0.4s ease;
+      }
+    }
+    .accordion-content {
+      font-style: italic;
+      transition: all 0.4s ease;
+      max-height: 200px;
+
+      p {
+        margin-top: 0 !important;
+        margin-bottom: 2rem !important;
+      }
+    }
+  }
+
+  h1,
+  h2,
+  h3,
+  p {
+    color: $primary !important;
+  }
+
+  h3 {
+    font-size: 3rem;
+    font-weight: bold;
+  }
+
+  p {
+    margin: 1rem !important;
+  }
+}

@@ -1,0 +1,16 @@
+{{" <!-- Offset Images -->" | safeHTML }}
+<section class="generic-offset-image bg-primary-accent">
+    <div class="container">
+        <div class="col col-12 col-md-6 col-lg-6 square card">
+            <h1>{{.title}}</h1>
+            <p>{{.content}}</p>
+            <a href="{{.cta_link}}">
+                <div class="btn btn-link">{{ .cta_label }}</div>
+            </a>
+        </div>
+        <div class="col col-12 col-md-6 col-lg-6 square card offset">
+            <img src="{{.image_link}}" alt="{{.image_alt}}" />
+        </div>
+    </div>
+</section>
+{{" <!-- /Offset Images -->" | safeHTML }}
