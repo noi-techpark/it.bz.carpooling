@@ -1,15 +1,16 @@
 
 offset_image:
-  title: Il car pooling sicuro e vicino.
-  content: CarPooling è un servizio di car pooling che permette di prenotare viaggi all’interno di comunità ristrette e conosciute, come la realtà di un’azienda o associazione sportiva, così da permetterti di viaggiare sempre con persone di cui ti fidi.
-  cta_label: Prenota viaggio 
+
+  title: Much more than the car pooling service of South Tyrol. 
+  content: ummadum is not only a new car pooling service that allows people to share rides with their own private car. Drive together, earn points and take benefit of local products / services
+  cta_label: Start your car pooling experience
   cta_link: "#"
 
   image_alt: Consume Data
   image_link: "/img/junior-reis-98AVD0fctzA-unsplash.png"
 
 community:
-  title: È già utilizzato da oltre 4k viaggiatori e 200 aziende
+  title: Organizations involved and companies testing the service:
   img_one: "img/leitner.png"
   img_one_name: Leitner
   img_one_link: https://www.leitner.com/
@@ -25,17 +26,16 @@ community:
 discover_partner:
   img_link: "img/maximilian-wachter-Zigz7HdNS7I-unsplash.png"
 
-  title: Un innovativo sistema a punti
-  content: Con CarPooling non paghi, spendi punti come passeggero e li guadagni da autista. Potrai poi spenderli all’interno dei nostri negozi convenzionati. I punti li puoi acquistare direttamente del sito web Ummadum, oppure sarà direttamente il tuo datore di lavoro a caricarli.
-  cta_label: Scopri i negozi partner
+  title: Earning points
+  content: Once registered, you can purchase points or receive them for free from the community organizers (e.g. your municipality, your company, etc.) you are invited in. You can earn points not only making car pooling but also by walking and cycling. Points can be used as vouchers / discounts in our affiliated shops.cta_label: Scopri i negozi partner
   cta_link: "#"
-  text_overlay: 1km = 10 punti = 0.10€
+  text_overlay: 1km = 10 points = 0.10€
 
 discover_community:
   img_link: "img/darwin-vegher-IAc1x02D9K0-unsplash.png"
 
   title: La community di cui ti fidi
-  content: CarPooling permette di cercare e prenotare autisti solo da comunità di persone che conosci e di cui ti fidi, come i tuoi colleghi di lavoro o amici del tuo club sportivo. Non viaggerai mai più cono sconosciuti.
+  content: People can belong to one or more communities, so to simplify the creation of a trusted network of contacts. CarPooling permette di cercare e prenotare autisti solo da comunità di persone che conosci e di cui ti fidi, come i tuoi colleghi di lavoro o amici del tuo club sportivo. Non viaggerai mai più cono sconosciuti.
   cta_label: Prenota viaggio
   cta_link: "#"
 
