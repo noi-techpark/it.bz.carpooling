@@ -1,6 +1,5 @@
 
 offset_image:
-
   title: Much more than the car pooling service of South Tyrol. 
   content: ummadum is not only a new car pooling service that allows people to share rides with their own private car. Drive together, earn points and take benefit of local products / services
   cta_label: Start your car pooling experience
@@ -10,7 +9,7 @@ offset_image:
   image_link: "/img/junior-reis-98AVD0fctzA-unsplash.png"
 
 community:
-  title: Organizations involved and companies testing the service:
+  title: "Organizations involved and companies testing the service:"
   img_one: "img/leitner.png"
   img_one_name: Leitner
   img_one_link: https://www.leitner.com/
@@ -27,7 +26,7 @@ discover_partner:
   img_link: "img/maximilian-wachter-Zigz7HdNS7I-unsplash.png"
 
   title: Earning points
-  content: Once registered, you can purchase points or receive them for free from the community organizers (e.g. your municipality, your company, etc.) you are invited in. You can earn points not only making car pooling but also by walking and cycling. Points can be used as vouchers / discounts in our affiliated shops.cta_label: Scopri i negozi partner
+  content: "Once registered, you can purchase points or receive them for free from the community organizers (e.g. your municipality, your company, etc.) you are invited in. You can earn points not only making car pooling but also by walking and cycling. Points can be used as vouchers / discounts in our affiliated shops.cta_label: Scopri i negozi partner"
   cta_link: "#"
   text_overlay: 1km = 10 points = 0.10€
 
