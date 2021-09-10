@@ -22,6 +22,15 @@ community:
   img_three_name: IDM Suedtirol
   img_three_link: https://www.idm-suedtirol.com
 
+discover_partner:
+  img_link: "img/maximilian-wachter-Zigz7HdNS7I-unsplash.png"
+
+  title: Earning points
+  content: "Once registered, you can purchase points or receive them for free from the community organizers (e.g. your municipality, your company, etc.) you are invited in. You can earn points not only making car pooling but also by walking and cycling. Points can be used as vouchers / discounts in our affiliated shops.cta_label: Scopri i negozi partner"
+  cta_label: Look at where points can be used
+  cta_link: "#"
+  text_overlay: 1km = 10 points = 0.10€
+
 communityShops:
   title: "List of shops in which you can convert your shopping points in products and services to buy:"
   img_one: "img/leitner.png"
@@ -36,20 +45,12 @@ communityShops:
   img_three_name: IDM Suedtirol
   img_three_link: https://www.idm-suedtirol.com
 
-discover_partner:
-  img_link: "img/maximilian-wachter-Zigz7HdNS7I-unsplash.png"
-
-  title: Earning points
-  content: "Once registered, you can purchase points or receive them for free from the community organizers (e.g. your municipality, your company, etc.) you are invited in. You can earn points not only making car pooling but also by walking and cycling. Points can be used as vouchers / discounts in our affiliated shops.cta_label: Scopri i negozi partner"
-  cta_link: "#"
-  text_overlay: 1km = 10 points = 0.10€
-
 discover_community:
   img_link: "img/darwin-vegher-IAc1x02D9K0-unsplash.png"
 
-  title: La community di cui ti fidi
-  content: People can belong to one or more communities, so to simplify the creation of a trusted network of contacts. CarPooling permette di cercare e prenotare autisti solo da comunità di persone che conosci e di cui ti fidi, come i tuoi colleghi di lavoro o amici del tuo club sportivo. Non viaggerai mai più cono sconosciuti.
-  cta_label: Prenota viaggio
+  title: Your trusted community
+  content: People can belong to one or more communities, so to simplify the creation of a trusted network of contacts. Because safety and security matter.
+  cta_label: Register now
   cta_link: "#"
 
 steps: 
