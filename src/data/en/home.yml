@@ -10,17 +10,25 @@ offset_image:
 
 community:
   title: "Organizations involved and companies testing the service:"
-  img_one: "img/leitner.png"
-  img_one_name: Leitner
-  img_one_link: https://www.leitner.com/
+  img_one: "img/BZG.png"
+  img_one_name: Bezirksgemeinschaft Burggrafenamt
+  img_one_link: https://www.bzgbga.it/
 
-  img_two: "img/noi-techpark.png"
+  img_two: "img/NOI_1_BK.png"
   img_two_name: NOI Techpark
   img_two_link: https://noi.bz.it/
 
-  img_three: "img/idm.png" 
-  img_three_name: IDM Suedtirol
-  img_three_link: https://www.idm-suedtirol.com
+  img_three: "img/STA.png" 
+  img_three_name: STA
+  img_three_link: https://www.sta.bz.it
+ 
+  img_four: "img/IPRONA.png" 
+  img_four_name: IPRONA
+  img_four_link: https://www.iprona.com
+  
+  img_five: "img/DrSchar.png" 
+  img_five: Dr. Schär
+  img_five: https://www.drschaer.com
 
 discover_partner:
   img_link: "img/maximilian-wachter-Zigz7HdNS7I-unsplash.png"
