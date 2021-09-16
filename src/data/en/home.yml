@@ -1,7 +1,7 @@
 
 offset_image:
   title: Much more than the car pooling service of South Tyrol. 
-  content: ummadum is not only a new car pooling service that allows people to share rides with their own private car. Drive together, earn points and take benefit of local products / services
+  content: ummadum is not only a new car pooling service that allows people to share rides with their own private car. By driving together, you can earn points that can be used to purchase local products / services
   cta_label: Start your car pooling experience
   cta_link: "https://www.ummadum.com"
 
@@ -33,11 +33,11 @@ community:
 discover_partner:
   img_link: "img/maximilian-wachter-Zigz7HdNS7I-unsplash.png"
 
-  title: Earning points
-  content: "Once registered, you can purchase points or receive them for free from the community organizers (e.g. your municipality, your company, etc.) you are invited in. You can earn points not only making car pooling but also by walking and cycling. Points can be used as vouchers / discounts in our affiliated shops.cta_label: Scopri i negozi partner"
-  cta_label: Look at where points can be used
+  title: How does it work
+  content: "Once registered, a user can purchase mobility points or receive them for free from one or more community (e.g. your municipality, your company, etc.). A user can join a community on invitation. User can transform mobility points in shopping points not only making car pooling but also by walking and cycling. Shopping points can be used as vouchers / discounts in the affiliated shops"
+  cta_label: Look at where shopping points can be used
   cta_link: "#"
-  text_overlay: 1km = 10 points = 0.10€
+  text_overlay: 10 points = 0.10€  | 10 points / km for car pooling; 20 points / km for bike; 30 points / km for walking
 
 communityShops:
   title: "List of shops in which you can convert your shopping points in products and services to buy:"
