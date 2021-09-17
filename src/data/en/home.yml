@@ -27,8 +27,8 @@ community:
   img_four_link: https://www.iprona.com
   
   img_five: "img/DrSchar.png" 
-  img_five: Dr. Schär
-  img_five: https://www.drschaer.com
+  img_five_name: Dr. Schär
+  img_five_link: https://www.drschaer.com
 
 discover_partner:
   img_link: "img/maximilian-wachter-Zigz7HdNS7I-unsplash.png"
