@@ -136,7 +136,7 @@ partners:
 faq:
   title: Frequently Asked Questions
   accordion:
-    - question: How does ummadum certify my car pooling trips
+    - question: How does ummadum certify my car pooling trips?
       answer: When a car pooling trip start, ummadum activates the GPS tracking using the resources of your mobile phone. The position is checked every 3-5 seconds so to ensure that the users find themselves in the same position for the whole trip. The limitations of the GPS signals are taking into account while implementing such control.
 
       
