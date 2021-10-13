@@ -5,25 +5,37 @@
 
   {{ partial "generic-offset-image.html" $data.home.offset_image }}
 
+	<span id="testing-companies">
+	{{ partial "col-images.html" $data.home.testing_companies }}
+</span>
+
+<span id="community">
 	{{ partial "col-images.html" $data.home.community }}
+</span>
 
-	{{ partial "img-text.html" $data.home.discover_partner }}
+	<span id="partner-info">
+		{{ partial "img-text.html" $data.home.discover_partner }}
+	</span>
 
-	{{ partial "text-img.html" $data.home.discover_community }}
+	<span id="community-info">
+		{{ partial "text-img.html" $data.home.discover_community }}
+	</span>
 
-  {{ partial "steps.html" $data.home.steps }}
+	<span id="steps-tutorial">
+  	{{ partial "steps.html" $data.home.steps }}
+	</span>
 
-	<section class="partners-ct">
+	<section class="partners-ct" id="partners">
 
   	{{ partial "title-and-content.html" $data.home.become_partner }}
 
 		{{ partial "generic-boxes.html" $data.home.boxes }}
-
-		{{ partial "partners.html" $data.home.partners }}
 		
 	</section>
 
-	{{ partial "generic-accordions.html" $data.home.faq }}
+	<span id="faq">
+		{{ partial "generic-accordions.html" $data.home.faq }}
+	</span>
 
   {{ partial "footer.html" . }}
 

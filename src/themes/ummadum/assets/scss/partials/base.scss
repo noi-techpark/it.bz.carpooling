@@ -10,6 +10,7 @@ body {
   margin: 0;
   padding: 0;
   overflow-x: hidden;
+  scroll-behavior: smooth;
 }
 
 .bg-primary-accent {
@@ -53,7 +54,7 @@ p {
 }
 
 h4 {
-    color: $link !important;
+  color: $link !important;
 }
 
 h1 {
@@ -221,7 +222,7 @@ input {
 
 // Components
 .partners-ct {
-    background-color: #F3F8F7;
+  background-color: #f3f8f7;
 }
 
 .menu-horizontal {
