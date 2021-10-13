@@ -27,7 +27,7 @@ name   = "How does it work"
 weight = 10
 
 [[languages.en.menu.main]]
-url    = "#"
+url    = "#partner"
 name   = "Partner"
 weight = 20
 
