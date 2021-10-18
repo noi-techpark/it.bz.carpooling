@@ -94,13 +94,7 @@ For support, please contact [info@software.bz.it](mailto:info@software.bz.it).
 
 If you'd like to contribute, please follow the following instructions:
 
-- Fork the repository.
-
-- Checkout a topic branch from the `master` branch.
-
-- Make sure the tests are passing.
-
-- Create a pull request against the `master` branch.
+https://docs.opendatahub.bz.it/en/latest/guidelines/contributors.html
 
 ### Documentation
 
