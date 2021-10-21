@@ -1,8 +1,8 @@
 offset_image:
-  title: Much more than the car pooling service of South Tyrol.
-  content: ummadum is not only a new car pooling service that allows people to share rides with their own private car. Drive together, earn points and take benefit of local products / services
+  title: Much more than the car pooling service of South Tyrol. 
+  content: ummadum is not only a new car pooling service that allows people to share rides with their own private car. By driving together, you can earn points that can be used to purchase local products / services
   cta_label: Start your car pooling experience
-  cta_link: "#"
+  cta_link: "https://www.ummadum.com"
 
   image_alt: Consume Data
   image_link: "/img/junior-reis-98AVD0fctzA-unsplash.png"
@@ -26,6 +26,37 @@ testing_companies:
 
 community:
   title: "Organizations involved"
+  img_one: "img/BZG.png"
+  img_one_name: Bezirksgemeinschaft Burggrafenamt
+  img_one_link: https://www.bzgbga.it/
+
+  img_two: "img/NOI_1_BK.png"
+  img_two_name: NOI Techpark
+  img_two_link: https://noi.bz.it/
+
+  img_three: "img/STA.png" 
+  img_three_name: STA
+  img_three_link: https://www.sta.bz.it
+ 
+  img_four: "img/IPRONA.png" 
+  img_four_name: IPRONA
+  img_four_link: https://www.iprona.com
+  
+  img_five: "img/DrSchar.png" 
+  img_five_name: Dr. Schär
+  img_five_link: https://www.drschaer.com
+
+discover_partner:
+  img_link: "img/maximilian-wachter-Zigz7HdNS7I-unsplash.png"
+
+  title: Transforming mobility in value
+  content: "Once registered, a user can purchase mobility points or receive them for free from one or more community (e.g. a municipality, a company, etc.). A user can join a community on invitation. Users can transform mobility points in shopping points not only by making car pooling, but also if they walk or cycle. Shopping points can be used as vouchers / discounts in the affiliated shops"
+  cta_label: Look at where shopping points can be used
+  cta_link: "#"
+  text_overlay: 10 points = 0.10€  | 10 points / km for car pooling; 20 points / km for bike; 30 points / km for walking
+
+communityShops:
+  title: "List of shops in which you can convert your shopping points in products and services to buy:"
   img_one: "img/leitner.png"
   img_one_name: Leitner
   img_one_link: https://www.leitner.com/
@@ -40,7 +71,6 @@ community:
 
 discover_partner:
   img_link: "img/maximilian-wachter-Zigz7HdNS7I-unsplash.png"
-
   title: Earning points
   content: "Once registered, you can purchase points or receive them for free from the community organizers (e.g. your municipality, your company, etc.) you are invited in. You can earn points not only making car pooling but also by walking and cycling. Points can be used as vouchers / discounts in our affiliated shops.cta_label: Scopri i negozi partner"
   cta_label: Look at where shopping points can be used
@@ -52,30 +82,28 @@ discover_partner:
 
 discover_community:
   img_link: "img/darwin-vegher-IAc1x02D9K0-unsplash.png"
-
-  title: La community di cui ti fidi
-  content: People can belong to one or more communities, so to simplify the creation of a trusted network of contacts. CarPooling permette di cercare e prenotare autisti solo da comunità di persone che conosci e di cui ti fidi, come i tuoi colleghi di lavoro o amici del tuo club sportivo. Non viaggerai mai più cono sconosciuti.
-  cta_label: Prenota viaggio
-  cta_link: "#"
+  title: Your trusted community
+  content: People can belong to one or more communities, so to simplify the creation of a trusted network of contacts. Because safety and security matter.
+  cta_label: Start your car pooling experience
+  cta_link: "https://www.ummadum.com"
 
 steps:
-  title: In un attimo sei a bordo
-
+  title: Sharing trips with other people
   step:
     - step_count: 1
       img_link: "img/christin-hume-Hcfwew744z4-unsplash@2x.png"
       img_alt: Person subscribing from laptop
-      title: Registrati su ummadum
-      content: Con CarPooling non paghi, spendi punti come passeggero e li guadagni da autista.
-      cta_label: Registrati ora
-      cta_link: "#"
+      title: Download ummadum APP and register yourself
+      content: The first step to be part of the ummadum community.
+      cta_label: Start your car pooling experience
+      cta_link: "https://www.ummadum.com"
     - step_count: 2
-      img_link: "img/christin-hume-Hcfwew744z4-unsplash@2x.png"
-      img_alt: Person subscribing from laptop
-      title: Ricarica i punti
-      content: Con CarPooling non paghi, spendi punti come passeggero e li guadagni da autista.
-      cta_label: Registrati ora
-      cta_link: "#"
+      img_link: "img/Community.png"
+      img_alt: Community of people
+      title: Become partner of a community and receive mobility points
+      content: The moderator of a community sends an invitation to join. Once accepted, you will receive mobility points according to the community's rules. In case you are not part of a community, you can decide to purchase mobility points on your own.
+      cta_label: Start your car pooling experience
+      cta_link: "https://www.ummadum.com"
     - step_count: 3
       img_link: "img/christin-hume-Hcfwew744z4-unsplash@2x.png"
       img_alt: Person subscribing from laptop
@@ -92,28 +120,39 @@ steps:
       cta_link: "#"
 
 become_partner:
-  title: Diventa partner
-  content: CarPooling non va oltre i semplici autisti e passeggeri, ma da un’intera community di aziende e negozi partner che stanno contribuendo a rivoluzionare il mondo dei trasporti sostenibili in Alto Adige.
+  title: Are you an organization and are you interested to become part of the ummadum ecosystem?
+  content: If you are really committed to build a more sustainable future, then this is the right place for you. All together we can create an alternative to the unsustainability of individual motorized traffic. 
+      img_link: "img/Carpooling.png"
+      img_alt: Car pooling users
+      title: Make car pooling and transform your mobility points in shopping points. The ummadum system will automatically certify your movements for the community moderator.
+      content: Find other users in your communities and start making car pooling
+      cta_label: Start your car pooling experience
+      cta_link: "https://www.ummadum.com"
+      step_count: 4
+      img_link: "img/Shopping.png"
+      img_alt: Shopping
+      title: Use your shopping points in order to purchase local products / services
+      content: Affiliated shops just ask you to tap in your APP and decide how many points you want to use. 
+      cta_label: Have a look at who is in the network of shopping points
+      cta_link: "https://www.ummadum.com"
 
 boxes:
   box:
-    - name: Per aziende
-      content: Con CarPooling non paghi, spendi punti come passeggero e li guadagni da autista.
+    - name: For companies
+      content: The ummadum service can be a powerful service to motivate your employees to reach their workplace sustainably. Join us and create your community.
       box_link: "#"
-      btn_label: Aderisci
-    - name: Per punti vendita
-      content: Con CarPooling non paghi, spendi punti come passeggero e li guadagni da autista.
+      btn_label: Contact us
+    - name: For shops
+      content: The ummadum service can be an additional channels to earn customers. Every months the ummadum system purchases back all the points you have collected from the users.
       box_link: "#"
-      btn_label: Aderisci
-    - name: Per associazioni
-      content: Con CarPooling non paghi, spendi punti come passeggero e li guadagni da autista.
+      btn_label: Contact us
+    - name: For public organizations 
+      content: Public institutions can also foster sustainabile mobility in the area they are responsible for. Join us and create your community so that users can have additional points to use.
       box_link: "#"
-      btn_label: Aderisci
+      btn_label: Contact us
 
 faq:
   title: Frequently Asked Questions
   accordion:
-    - question: Con CarPooling non paghi, spendi punti come passeggero?
-      answer: Con CarPooling non paghi, spendi punti come passeggero e li guadagni da autista.
-    - question: Con CarPooling non paghi, spendi punti come passeggero?
-      answer: Con CarPooling non paghi, spendi punti come passeggero e li guadagni da autista.
+    - question: How does ummadum certify my car pooling trips?
+      answer: When a car pooling trip start, ummadum activates the GPS tracking using the resources of your mobile phone. The position is checked every 3-5 seconds so to ensure that the users find themselves in the same position for the whole trip. The limitations of the GPS signals are taking into account while implementing such control.
