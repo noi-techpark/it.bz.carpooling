@@ -125,12 +125,7 @@
             <ul class="flex">
               {{ $currentPage := . }} {{ range .Site.Menus.main.ByWeight }}
               <li class="{{ if eq $currentPage.Title .Name}}current{{ end }}">
-                <a
-                  class="menu-item-link"
-                  href="{{ .URL | absLangURL | safeURL }}"
-                >
-                  {{ .Name }}
-                </a>
+                <a class="menu-item-link" href="{{ .URL }}"> {{ .Name }} </a>
               </li>
               {{end}}
             </ul>
@@ -151,7 +146,7 @@
           <ul>
             {{ range .Site.Menus.main }} {{ if ne .Name "Home" }}
             <li>
-              <a class="menu-item-link" href="{{ .URL | absLangURL | safeURL }}"
+              <a class="menu-item-link" href="{{ .URL }}"
                 >{{ .Name }}</a
               >
             </li>

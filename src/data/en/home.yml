@@ -1,4 +1,3 @@
-
 offset_image:
   title: Much more than the car pooling service of South Tyrol. 
   content: ummadum is not only a new car pooling service that allows people to share rides with their own private car. By driving together, you can earn points that can be used to purchase local products / services
@@ -8,10 +7,27 @@ offset_image:
   image_alt: Consume Data
   image_link: "/img/junior-reis-98AVD0fctzA-unsplash.png"
 
+testing_companies:
+  title: Companies testing the service
+  img_one: "img/leitner.png"
+  img_one_name: Leitner
+  img_one_link: https://www.leitner.com/
+  img_one_desc: Lorem ipsum dolor sit
+
+  img_two: "img/noi-techpark.png"
+  img_two_name: NOI Techpark
+  img_two_link: https://noi.bz.it/
+  img_two_desc: Lorem ipsum dolor sit
+
+  img_three: "img/idm.png"
+  img_three_name: IDM Suedtirol
+  img_three_link: https://www.idm-suedtirol.com
+  img_three_desc: Lorem ipsum dolor sit
+
 community:
-  title: "Organizations involved and companies testing the service:"
+  title: "Organizations involved"
   img_one: "img/BZG.png"
-  img_one_name: Bezirksgemeinschaft Burggrafenamt
+  img_one_name: "Bezirksgemeinschaft Burggrafenamt"
   img_one_link: https://www.bzgbga.it/
 
   img_two: "img/NOI_1_BK.png"
@@ -49,22 +65,31 @@ communityShops:
   img_two_name: NOI Techpark
   img_two_link: https://noi.bz.it/
 
-  img_three: "img/idm.png" 
+  img_three: "img/idm.png"
   img_three_name: IDM Suedtirol
   img_three_link: https://www.idm-suedtirol.com
 
+discover_partner:
+  img_link: "img/maximilian-wachter-Zigz7HdNS7I-unsplash.png"
+  title: "Earning points"
+  content: "Once registered, you can purchase points or receive them for free from the community organizers (e.g. your municipality, your company, etc.) you are invited in. You can earn points not only making car pooling but also by walking and cycling. Points can be used as vouchers / discounts in our affiliated shops.cta_label: Scopri i negozi partner"
+  cta_label: Look at where shopping points can be used
+  cta_link: "#partners"
+  text_overlay: 1km = 10 points = 0.10€
+  text_overlay_car: 10 points / km for car pooling
+  text_overlay_bike: 20 points / km for bike
+  text_overlay_walking: 30 points / km for walking
+
 discover_community:
   img_link: "img/darwin-vegher-IAc1x02D9K0-unsplash.png"
-
   title: Your trusted community
   content: People can belong to one or more communities, so to simplify the creation of a trusted network of contacts. Because safety and security matter.
   cta_label: Start your car pooling experience
   cta_link: "https://www.ummadum.com"
 
-steps: 
+steps:
   title: Sharing trips with other people
-
-  step: 
+  step:
     - step_count: 1
       img_link: "img/christin-hume-Hcfwew744z4-unsplash@2x.png"
       img_alt: Person subscribing from laptop
@@ -80,23 +105,36 @@ steps:
       cta_label: Start your car pooling experience
       cta_link: "https://www.ummadum.com"
     - step_count: 3
-      img_link: "img/Carpooling.png"
-      img_alt: Car pooling users
-      title: Make car pooling and transform your mobility points in shopping points. The ummadum system will automatically certify your movements for the community moderator.
-      content: Find other users in your communities and start making car pooling
-      cta_label: Start your car pooling experience
-      cta_link: "https://www.ummadum.com"
-      step_count: 4
-      img_link: "img/Shopping.png"
-      img_alt: Shopping
-      title: Use your shopping points in order to purchase local products / services
-      content: Affiliated shops just ask you to tap in your APP and decide how many points you want to use. 
-      cta_label: Have a look at who is in the network of shopping points
-      cta_link: "https://www.ummadum.com"
+      img_link: "img/christin-hume-Hcfwew744z4-unsplash@2x.png"
+      img_alt: Person subscribing from laptop
+      title: Prenota il tuo viaggio
+      content: Con CarPooling non paghi, spendi punti come passeggero e li guadagni da autista.
+      cta_label: Registrati ora
+      cta_link: "#"
+    - step_count: 4
+      img_link: "/img/christin-hume-Hcfwew744z4-unsplash@2x.png"
+      img_alt: Person subscribing from laptop
+      title: Prenota il tuo viaggio
+      content: Con CarPooling non paghi, spendi punti come passeggero e li guadagni da autista.
+      cta_label: "Registrati ora"
+      cta_link: "#"
 
-become_partner: 
+become_partner:
   title: Are you an organization and are you interested to become part of the ummadum ecosystem?
   content: If you are really committed to build a more sustainable future, then this is the right place for you. All together we can create an alternative to the unsustainability of individual motorized traffic. 
+  img_link: "img/Carpooling.png"
+  img_alt: Car pooling users
+  title: Make car pooling and transform your mobility points in shopping points. The ummadum system will automatically certify your movements for the community moderator.
+  content: Find other users in your communities and start making car pooling
+  cta_label: Start your car pooling experience
+  cta_link: "https://www.ummadum.com"
+  step_count: 4
+  img_link: "img/Shopping.png"
+  img_alt: Shopping
+  title: Use your shopping points in order to purchase local products / services
+  content: Affiliated shops just ask you to tap in your APP and decide how many points you want to use. 
+  cta_label: Have a look at who is in the network of shopping points
+  cta_link: "https://www.ummadum.com"
 
 boxes:
   box:
@@ -113,30 +151,8 @@ boxes:
       box_link: "#"
       btn_label: Contact us
 
-partners:
-  title: Loro lo sono già
-  partner:
-    - img_link: "img/partner/comune-burgraviato.png"
-      name: Comune Burgraviato
-      link: "#"
-      type: Sperimentazione
-    - img_link: "img/partner/despar.png"
-      name: Despar
-      link: "#"
-      type: Punto vendita
-    - img_link: "img/partner/durst.png"
-      name: Durst
-      link: "#"
-      type: Azienda
-    - img_link: "img/partner/poli.png"
-      name: Poli
-      link: "#"
-      type: Azienda
-  
 faq:
   title: Frequently Asked Questions
   accordion:
     - question: How does ummadum certify my car pooling trips?
       answer: When a car pooling trip start, ummadum activates the GPS tracking using the resources of your mobile phone. The position is checked every 3-5 seconds so to ensure that the users find themselves in the same position for the whole trip. The limitations of the GPS signals are taking into account while implementing such control.
-
-      

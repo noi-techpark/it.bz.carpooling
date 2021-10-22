@@ -8,12 +8,21 @@
     <div class="row">
       <a href="{{.img_one_link}}" class="col">
         <img src="{{ .img_one }}" alt="{{ .img_one_name }}" />
+        {{ if .img_one_desc }}
+          <p>{{ .img_one_desc }}</p>
+        {{ end }}
       </a>
       <a href="{{.img_two_link}}" class="col">
         <img src="{{ .img_two }}" alt="{{ .img_two_name }}" />
+        {{ if .img_two_desc }}
+          <p>{{ .img_two_desc }}</p>
+        {{ end }}
       </a>
       <a href="{{.img_three_link}}" class="col">
         <img src="{{ .img_three }}" alt="{{ .img_three_name }}" />
+        {{ if .img_three_desc }}
+          <p>{{ .img_three_desc }}</p>
+        {{ end }}
       </a>
       <a href="{{.img_four_link}}" class="col">
         <img src="{{ .img_four }}" alt="{{ .img_four_name }}" />

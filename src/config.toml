@@ -22,22 +22,22 @@ languageName = "English"
 contentDir = "content/en"
 
 [[languages.en.menu.main]]
-url    = "#"
+url    = "#partner-info"
 name   = "How does it work"
 weight = 10
 
 [[languages.en.menu.main]]
-url    = "#partner"
-name   = "Partner"
+url    = "#partners"
+name   = "Partners"
 weight = 20
 
 [[languages.en.menu.main]]
-url    = "#"
+url    = "#faq"
 name   = "FAQ"
 weight = 30
 
 [[languages.en.menu.main]]
-url    = "#"
+url    = "https://www.ummadum.com/"
 name   = "Book a travel"
 weight = 40
 
@@ -47,12 +47,12 @@ contentDir = "content/it/"
 languageName = "Italiano"
 
 [[languages.it.menu.main]]
-url    = "#how-does-it-work"
+url    = "#partner-info"
 name   = "Come funziona"
 weight = 10
 
 [[languages.it.menu.main]]
-url    = "#partner"
+url    = "#partners"
 name   = "Partner"
 weight = 20
 
@@ -62,7 +62,7 @@ name   = "Domande frequenti"
 weight = 30
 
 [[languages.it.menu.main]]
-url    = "/book"
+url    = "https://www.ummadum.com/"
 name   = "Prenota un viaggio"
 weight = 40
 
@@ -72,12 +72,12 @@ contentDir = "content/de/"
 languageName = "Deutsch"
 
 [[languages.de.menu.main]]
-url    = "#how-does-it-work"
+url    = "#partner-info"
 name   = "Wie es funktioniert"
 weight = 10
 
 [[languages.de.menu.main]]
-url    = "#partner"
+url    = "#partners"
 name   = "Partner"
 weight = 20
 
@@ -87,7 +87,7 @@ name   = "FAQ"
 weight = 30
 
 [[languages.de.menu.main]]
-url    = "/book"
+url    = "https://www.ummadum.com/"
 name   = "Buche eine Fahrt"
 weight = 40
 
@@ -101,81 +101,96 @@ copyright = "NOI AG - Via Volta 13/A, I-39100 Bolzano - VAT No.: XXX - Endowment
 title = "The project"
 
 [[languages.en.menu.footer1]]
-url    = "#"
-name   = "Pricing"
+url    = "#testing-companies"
+name   = "Pilot companies"
 weight = 10
 
 [[languages.en.menu.footer1]]
-url    = "#"
-name   = "Community"
+url    = "#community-info"
+name   = "Shopping points"
 weight = 20
 
 [[languages.en.menu.footer1]]
-url    = "#"
-name   = "For companies"
+url    = "#steps-tutorial"
+name   = "How does it work"
 weight = 30
 
 [[languages.en.menu.footer1]]
-url    = "#"
-name   = "Financing"
+url    = "#faq"
+name   = "FAQ"
+weight = 40
+
+[[languages.en.menu.footer1]]
+url    = "#partners"
+name   = "Become partner"
 weight = 40
 
 [languages.it.footer1]
 title = "Il progetto"
 
 [[languages.it.menu.footer1]]
-url    = "#"
-name   = "Prezzario"
+url    = "#testing-companies"
+name   = "Pilot companies"
 weight = 10
 
 [[languages.it.menu.footer1]]
-url    = "#"
-name   = "Community"
+url    = "#community-info"
+name   = "Shopping points"
 weight = 20
 
 [[languages.it.menu.footer1]]
-url    = "#"
-name   = "Per aziende"
+url    = "#steps-tutorial"
+name   = "How does it work"
 weight = 30
 
 [[languages.it.menu.footer1]]
-url    = "#"
-name   = "Finanziamento"
+url    = "#faq"
+name   = "FAQ"
+weight = 40
+
+[[languages.it.menu.footer1]]
+url    = "#partners"
+name   = "Become partner"
 weight = 40
 
 [languages.de.footer1]
 title = "The project"
 
 [[languages.de.menu.footer1]]
-url    = "#"
-name   = "Preise"
+url    = "#testing-companies"
+name   = "Pilot companies"
 weight = 10
 
 [[languages.de.menu.footer1]]
-url    = "#"
-name   = "Community"
+url    = "#community-info"
+name   = "Shopping points"
 weight = 20
 
 [[languages.de.menu.footer1]]
-url    = "#"
-name   = "For companies"
+url    = "#steps-tutorial"
+name   = "How does it work"
 weight = 30
 
 [[languages.de.menu.footer1]]
-url    = "#"
-name   = "Financing"
+url    = "#faq"
+name   = "FAQ"
+weight = 40
+
+[[languages.de.menu.footer1]]
+url    = "#partners"
+name   = "Become partner"
 weight = 40
 
 [languages.en.footer2]
 title = "Carpooling for"
 
 [[languages.en.menu.footer2]]
-url    = "#"
+url    = "https://www.ummadum.com/"
 name   = "Users"
 weight = 10
 
 [[languages.en.menu.footer2]]
-url    = "#"
+url    = "https://www.ummadum.com/"
 name   = "Driver"
 weight = 20
 
@@ -183,12 +198,12 @@ weight = 20
 title = "Carpooling per"
 
 [[languages.it.menu.footer2]]
-url    = "#"
+url    = "https://www.ummadum.com/"
 name   = "Utenti"
 weight = 10
 
 [[languages.it.menu.footer2]]
-url    = "#"
+url    = "https://www.ummadum.com/"
 name   = "Autisti"
 weight = 20
 
@@ -196,11 +211,11 @@ weight = 20
 title = "Carpooling für"
 
 [[languages.de.menu.footer2]]
-url    = "#"
+url    = "https://www.ummadum.com/"
 name   = "Benutzer"
 weight = 10
 
 [[languages.de.menu.footer2]]
-url    = "#"
+url    = "https://www.ummadum.com/"
 name   = "Fahrer"
 weight = 20

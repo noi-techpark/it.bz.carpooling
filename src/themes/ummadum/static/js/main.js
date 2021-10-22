@@ -26,6 +26,10 @@ ElementSelector.prototype.activate = function (element_id) {
   return $.get(element_id).classList.toggle("is-active");
 };
 
+ElementSelector.prototype.deactivate = function (element_id) {
+  return $.get(element_id).classList.remove("is-active");
+};
+
 function sendForm(e) {
   e.preventDefault();
 
@@ -91,11 +95,18 @@ function on_ready() {
     $.activate("menu-wrap-mobile");
   });
 
+  for (const item of document.getElementsByClassName("menu-item-link")) {
+    item.addEventListener("click", function () {
+      $.deactivate("menu-toggle");
+      $.deactivate("menu-wrap-mobile");
+    });
+  }
+
   var accordions = $.getClass("accordion");
   console.log(accordions);
   for ($i = 0; $i < accordions.length; $i++) {
     accordions[$i].addEventListener("click", function () {
-      this.classList.toggle('closed');
+      this.classList.toggle("closed");
     });
   }
 

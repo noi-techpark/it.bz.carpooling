@@ -23,16 +23,18 @@
           <a href="{{.cta_link}}">
             <div class="btn btn-primary">{{ .cta_label }}</div>
           </a>
+          {{ if .text_overlay }}
+            <div class="row">
+              <div class="features-ct col col-12 col-sm-6 col-md-12 col-lg-12 card">
+                <h6 class="semi-opacity">{{ .text_overlay }}</h6>
+                <h7 class="semi-opacity sub">{{ .text_overlay_car }}</h7>
+                <h7 class="semi-opacity sub">{{ .text_overlay_bike }}</h7>
+                <h7 class="semi-opacity sub">{{ .text_overlay_walking }}</h7>
+              </div>
+            </div>
+          {{ end }}
         </div>
       </div>
-
-      {{ if .text_overlay }}
-      <div class="row">
-        <div class="col col-12 col-sm-6 col-md-12 col-lg-12 card text-center">
-          <h6 class="semi-opacity">{{ .text_overlay }}</h6>
-        </div>
-      </div>
-      {{ end }}
     </div>
   </div>
 </section>
