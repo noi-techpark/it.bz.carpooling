@@ -26,6 +26,10 @@ ElementSelector.prototype.activate = function (element_id) {
   return $.get(element_id).classList.toggle("is-active");
 };
 
+ElementSelector.prototype.deactivate = function (element_id) {
+  return $.get(element_id).classList.remove("is-active");
+};
+
 function sendForm(e) {
   e.preventDefault();
 
@@ -93,8 +97,8 @@ function on_ready() {
 
   for (const item of document.getElementsByClassName("menu-item-link")) {
     item.addEventListener("click", function () {
-      $.activate("menu-toggle");
-      $.activate("menu-wrap-mobile");
+      $.deactivate("menu-toggle");
+      $.deactivate("menu-wrap-mobile");
     });
   }
 
