@@ -71,7 +71,7 @@ communityShops:
 
 discover_partner:
   img_link: "img/maximilian-wachter-Zigz7HdNS7I-unsplash.png"
-  title: Earning points
+  title: "Earning points"
   content: "Once registered, you can purchase points or receive them for free from the community organizers (e.g. your municipality, your company, etc.) you are invited in. You can earn points not only making car pooling but also by walking and cycling. Points can be used as vouchers / discounts in our affiliated shops.cta_label: Scopri i negozi partner"
   cta_label: Look at where shopping points can be used
   cta_link: "#partners"
@@ -116,25 +116,25 @@ steps:
       img_alt: Person subscribing from laptop
       title: Prenota il tuo viaggio
       content: Con CarPooling non paghi, spendi punti come passeggero e li guadagni da autista.
-      cta_label: Registrati ora
+      cta_label: "Registrati ora"
       cta_link: "#"
 
 become_partner:
   title: Are you an organization and are you interested to become part of the ummadum ecosystem?
   content: If you are really committed to build a more sustainable future, then this is the right place for you. All together we can create an alternative to the unsustainability of individual motorized traffic. 
-      img_link: "img/Carpooling.png"
-      img_alt: Car pooling users
-      title: Make car pooling and transform your mobility points in shopping points. The ummadum system will automatically certify your movements for the community moderator.
-      content: Find other users in your communities and start making car pooling
-      cta_label: Start your car pooling experience
-      cta_link: "https://www.ummadum.com"
-      step_count: 4
-      img_link: "img/Shopping.png"
-      img_alt: Shopping
-      title: Use your shopping points in order to purchase local products / services
-      content: Affiliated shops just ask you to tap in your APP and decide how many points you want to use. 
-      cta_label: Have a look at who is in the network of shopping points
-      cta_link: "https://www.ummadum.com"
+  img_link: "img/Carpooling.png"
+  img_alt: Car pooling users
+  title: Make car pooling and transform your mobility points in shopping points. The ummadum system will automatically certify your movements for the community moderator.
+  content: Find other users in your communities and start making car pooling
+  cta_label: Start your car pooling experience
+  cta_link: "https://www.ummadum.com"
+  step_count: 4
+  img_link: "img/Shopping.png"
+  img_alt: Shopping
+  title: Use your shopping points in order to purchase local products / services
+  content: Affiliated shops just ask you to tap in your APP and decide how many points you want to use. 
+  cta_label: Have a look at who is in the network of shopping points
+  cta_link: "https://www.ummadum.com"
 
 boxes:
   box:
