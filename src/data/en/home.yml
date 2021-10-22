@@ -27,7 +27,7 @@ testing_companies:
 community:
   title: "Organizations involved"
   img_one: "img/BZG.png"
-  img_one_name: Bezirksgemeinschaft Burggrafenamt
+  img_one_name: "Bezirksgemeinschaft Burggrafenamt"
   img_one_link: https://www.bzgbga.it/
 
   img_two: "img/NOI_1_BK.png"
