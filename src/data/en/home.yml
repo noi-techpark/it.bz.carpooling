@@ -1,50 +1,62 @@
 offset_image:
   title: Much more than the car pooling service of South Tyrol. 
-  content: ummadum is not only a new car pooling service that allows people to share rides with their own private car. By driving together, you can earn points that can be used to purchase local products / services
+  content: ummadum is not only a new car pooling service that allows people to share rides with their own private car. By driving together, you can earn points that can be used to purchase local products and services
   cta_label: Start your car pooling experience
   cta_link: "https://www.ummadum.com"
 
   image_alt: Consume Data
-  image_link: "/img/junior-reis-98AVD0fctzA-unsplash.png"
+  image_link: "/img/background.png"
 
 testing_companies:
   title: Companies testing the service
-  img_one: "img/leitner.png"
-  img_one_name: Leitner
-  img_one_link: https://www.leitner.com/
-  img_one_desc: Lorem ipsum dolor sit
+  img_one: "img/IPRONA.png" 
+  img_one_name: IPRONA
+  img_one_link: https://www.iprona.com
+  
+  img_two: "img/DrSchar.png" 
+  img_two_name: Dr. Schär
+  img_two_link: https://www.drschaer.com
+  
+  img_three: "img/MEMC.png" 
+  img_three_name: MEMC
+  img_three_link: https://www.gw-semi.com/
+  
+  img_four: "img/oberalp.png" 
+  img_four_name: Oberalp
+  img_four_link: https://www.oberalp.com
+  
+  img_five: "img/idm.png"
+  img_five_name: IDM Suedtirol
+  img_five_link: https://www.idm-suedtirol.com
 
-  img_two: "img/noi-techpark.png"
-  img_two_name: NOI Techpark
-  img_two_link: https://noi.bz.it/
-  img_two_desc: Lorem ipsum dolor sit
+  img_six: "img/noi-techpark.png"
+  img_six_name: NOI Techpark
+  img_six_link: https://noi.bz.it/
+  
+  img_seven: "img/BZG.png"
+  img_seven_name: "Bezirksgemeinschaft Burggrafenamt"
+  img_seven_link: https://www.bzgbga.it/
 
-  img_three: "img/idm.png"
-  img_three_name: IDM Suedtirol
-  img_three_link: https://www.idm-suedtirol.com
-  img_three_desc: Lorem ipsum dolor sit
-
+  img_eight: "img/systent.png"
+  img_seven_name: "systent"
+  img_seven_link: https://www.systent.it
+  
 community:
   title: "Organizations involved"
-  img_one: "img/BZG.png"
-  img_one_name: "Bezirksgemeinschaft Burggrafenamt"
-  img_one_link: https://www.bzgbga.it/
-
-  img_two: "img/NOI_1_BK.png"
-  img_two_name: NOI Techpark
-  img_two_link: https://noi.bz.it/
+  img_one: "img/noi-techpark.png"
+  img_one_name: NOI Techpark
+  img_one_link: https://noi.bz.it/
+  img_one_desc: Pilot project coordination
+ 
+  img_two: "img/BZG.png"
+  img_two_name: "Bezirksgemeinschaft Burggrafenamt"
+  img_two_link: https://www.bzgbga.it/
+  img_two_desc: Pilot project support
 
   img_three: "img/STA.png" 
   img_three_name: STA
   img_three_link: https://www.sta.bz.it
- 
-  img_four: "img/IPRONA.png" 
-  img_four_name: IPRONA
-  img_four_link: https://www.iprona.com
-  
-  img_five: "img/DrSchar.png" 
-  img_five_name: Dr. Schär
-  img_five_link: https://www.drschaer.com
+  img_three_desc: Pilot project support
 
 discover_partner:
   img_link: "img/maximilian-wachter-Zigz7HdNS7I-unsplash.png"
