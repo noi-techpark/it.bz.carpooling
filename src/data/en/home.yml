@@ -113,19 +113,19 @@ steps:
       cta_label: Start your car pooling experience
       cta_link: "https://www.ummadum.com"
     - step_count: 3
-      img_link: "img/christin-hume-Hcfwew744z4-unsplash@2x.png"
-      img_alt: Person subscribing from laptop
-      title: Prenota il tuo viaggio
-      content: Con CarPooling non paghi, spendi punti come passeggero e li guadagni da autista.
-      cta_label: Registrati ora
-      cta_link: "#"
+      img_link: "img/carpooling3.png"
+      img_alt: People making car pooling
+      title: Transform mobility points in shopping points 
+      content: Use the Ummadum APP while walking, cycling or making car pooling, so transform your mobility points in shopping points.
+      cta_label: Start your car pooling experience
+      cta_link: "https://www.ummadum.com"
     - step_count: 4
       img_link: "/img/christin-hume-Hcfwew744z4-unsplash@2x.png"
-      img_alt: Person subscribing from laptop
-      title: Prenota il tuo viaggio
-      content: Con CarPooling non paghi, spendi punti come passeggero e li guadagni da autista.
-      cta_label: "Registrati ora"
-      cta_link: "#"
+      img_alt: Shopping
+      title: Use your shopping points to buy local products and services
+      content: Use the Ummadum APP at the affiliated shopping points in order to consume the shopping points you earned through your sustainable mobility behaviour.
+      cta_label: Start your car pooling experience
+      cta_link: "https://www.ummadum.com"
 
 become_partner:
   title: Are you an organization and are you interested to become part of the ummadum ecosystem?
