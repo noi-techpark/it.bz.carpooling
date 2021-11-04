@@ -148,15 +148,15 @@ boxes:
   box:
     - name: For companies
       content: The ummadum service can be a powerful service to motivate your employees to reach their workplace sustainably. Join us and create your community.
-      box_link: "#"
+      box_link: "https://www.ummadum.com"
       btn_label: Contact us
     - name: For shops
       content: The ummadum service can be an additional channels to earn customers. Every months the ummadum system purchases back all the points you have collected from the users.
-      box_link: "#"
+      box_link: "https://www.ummadum.com"
       btn_label: Contact us
     - name: For public organizations 
       content: Public institutions can also foster sustainabile mobility in the area they are responsible for. Join us and create your community so that users can have additional points to use.
-      box_link: "#"
+      box_link: "https://www.ummadum.com"
       btn_label: Contact us
 
 faq:
