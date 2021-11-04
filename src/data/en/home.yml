@@ -96,7 +96,7 @@ discover_community:
   cta_link: "https://www.ummadum.com"
 
 steps:
-  title: Sharing trips with other people
+  title: How does it work?
   step:
     - step_count: 1
       img_link: "img/christin-hume-Hcfwew744z4-unsplash@2x.png"
