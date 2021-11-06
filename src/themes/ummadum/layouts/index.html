@@ -1,5 +1,5 @@
-{{ partial "header.html" . }} {{ $data := index .Site.Data .Site.Language.Lang
-}}
+{{ partial "header.html" . }}
+{{ $data := index .Site.Data .Site.Language.Lang }}
 <div id="home">
   {{ partial "generic-offset-image.html" $data.home.offset_image }}
 
@@ -23,14 +23,18 @@
     {{ partial "col-images.html" $data.home.communityShops }}
   </span>
 
-  <span id="steps-tutorial"> {{ partial "steps.html" $data.home.steps }} </span>
+  <span id="steps-tutorial">
+		{{ partial "steps.html" $data.home.steps }}
+	</span>
 
   <section class="partners-ct" id="partners">
-    {{ partial "title-and-content.html" $data.home.become_partner }} {{ partial
-    "generic-boxes.html" $data.home.boxes }}
+    {{ partial "title-and-content.html" $data.home.become_partner }}
+		{{ partial "generic-boxes.html" $data.home.boxes }}
   </section>
 
-  <span id="faq"> {{ partial "generic-accordions.html" $data.home.faq }} </span>
+  <span id="faq">
+		{{ partial "generic-accordions.html" $data.home.faq }}
+	</span>
 
   {{ partial "footer.html" . }}
 </div>
