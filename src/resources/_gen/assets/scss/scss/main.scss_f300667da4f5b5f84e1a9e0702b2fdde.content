@@ -1446,6 +1446,9 @@ section.steps .row {
   section.steps .row.left-aligned {
     justify-content: left; }
 
+.steps-image-info {
+  max-width: 400px; }
+
 section.ipo {
   font-size: 1.8rem !important;
   padding: 0; }
