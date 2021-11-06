@@ -95,7 +95,7 @@ weight = 40
 ######################################## FOOTER
 
 [params.footer]
-copyright = "NOI AG - Via Volta 13/A, I-39100 Bolzano - VAT No.: XXX - Endowment capital XXX € - [Privacy](#)"
+copyright = "NOI AG - Via Volta 13/A, I-39100 Bolzano - VAT No.: 02595720216 - Built by [CodeWorks](https://codeworks.build)"
 
 [languages.en.footer1]
 title = "The project"
@@ -106,7 +106,7 @@ name   = "Pilot companies"
 weight = 10
 
 [[languages.en.menu.footer1]]
-url    = "#community-info"
+url    = "#shopping-points"
 name   = "Shopping points"
 weight = 20
 

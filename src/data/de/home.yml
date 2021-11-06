@@ -28,7 +28,10 @@ discover_partner:
   content: Con CarPooling non paghi, spendi punti come passeggero e li guadagni da autista. Potrai poi spenderli all’interno dei nostri negozi convenzionati. I punti li puoi acquistare direttamente del sito web Ummadum, oppure sarà direttamente il tuo datore di lavoro a caricarli.
   cta_label: Scopri i negozi partner
   cta_link: "#"
-  text_overlay: 1km = 10 punti = 0.10€
+  text_overlay: 1km = 10 points = 0.10€
+  text_overlay_car: 10 points / km for car pooling
+  text_overlay_bike: 20 points / km for bike
+  text_overlay_walking: 30 points / km for walking
 
 discover_community:
   img_link: "/img/darwin-vegher-IAc1x02D9K0-unsplash.png"
