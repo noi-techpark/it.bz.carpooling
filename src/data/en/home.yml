@@ -1,50 +1,62 @@
 offset_image:
   title: Much more than the car pooling service of South Tyrol. 
-  content: ummadum is not only a new car pooling service that allows people to share rides with their own private car. By driving together, you can earn points that can be used to purchase local products / services
+  content: ummadum is not only a new car pooling service that allows people to share rides with their own private car. By driving together, you can earn points that can be used to purchase local products and services
   cta_label: Start your car pooling experience
   cta_link: "https://www.ummadum.com"
 
   image_alt: Consume Data
-  image_link: "/img/junior-reis-98AVD0fctzA-unsplash.png"
+  image_link: "/img/background.png"
 
 testing_companies:
   title: Companies testing the service
-  img_one: "img/leitner.png"
-  img_one_name: Leitner
-  img_one_link: https://www.leitner.com/
-  img_one_desc: Lorem ipsum dolor sit
+  img_one: "img/IPRONA.png" 
+  img_one_name: IPRONA
+  img_one_link: https://www.iprona.com
+  
+  img_two: "img/DrSchar.png" 
+  img_two_name: Dr. Schär
+  img_two_link: https://www.drschaer.com
+  
+  img_three: "img/MEMC.png" 
+  img_three_name: MEMC
+  img_three_link: https://www.gw-semi.com/
+  
+  img_four: "img/oberalp.png" 
+  img_four_name: Oberalp
+  img_four_link: https://www.oberalp.com
+  
+  img_five: "img/idm.png"
+  img_five_name: IDM Suedtirol
+  img_five_link: https://www.idm-suedtirol.com
 
-  img_two: "img/noi-techpark.png"
-  img_two_name: NOI Techpark
-  img_two_link: https://noi.bz.it/
-  img_two_desc: Lorem ipsum dolor sit
+  img_six: "img/noi-techpark.png"
+  img_six_name: NOI Techpark
+  img_six_link: https://noi.bz.it/
+  
+  img_seven: "img/BZG.png"
+  img_seven_name: "Bezirksgemeinschaft Burggrafenamt"
+  img_seven_link: https://www.bzgbga.it/
 
-  img_three: "img/idm.png"
-  img_three_name: IDM Suedtirol
-  img_three_link: https://www.idm-suedtirol.com
-  img_three_desc: Lorem ipsum dolor sit
-
+  img_eight: "img/systent.png"
+  img_seven_name: "systent"
+  img_seven_link: https://www.systent.it
+  
 community:
   title: "Organizations involved"
-  img_one: "img/BZG.png"
-  img_one_name: "Bezirksgemeinschaft Burggrafenamt"
-  img_one_link: https://www.bzgbga.it/
-
-  img_two: "img/NOI_1_BK.png"
-  img_two_name: NOI Techpark
-  img_two_link: https://noi.bz.it/
+  img_one: "img/noi-techpark.png"
+  img_one_name: NOI Techpark
+  img_one_link: https://noi.bz.it/
+  img_one_desc: Pilot project coordination
+ 
+  img_two: "img/BZG.png"
+  img_two_name: "Bezirksgemeinschaft Burggrafenamt"
+  img_two_link: https://www.bzgbga.it/
+  img_two_desc: Pilot project support
 
   img_three: "img/STA.png" 
   img_three_name: STA
   img_three_link: https://www.sta.bz.it
- 
-  img_four: "img/IPRONA.png" 
-  img_four_name: IPRONA
-  img_four_link: https://www.iprona.com
-  
-  img_five: "img/DrSchar.png" 
-  img_five_name: Dr. Schär
-  img_five_link: https://www.drschaer.com
+  img_three_desc: Pilot project support
 
 discover_partner:
   img_link: "img/maximilian-wachter-Zigz7HdNS7I-unsplash.png"
@@ -57,17 +69,24 @@ discover_partner:
 
 communityShops:
   title: "List of shops in which you can convert your shopping points in products and services to buy:"
-  img_one: "img/leitner.png"
-  img_one_name: Leitner
-  img_one_link: https://www.leitner.com/
+  img_one: "img/pur.png"
+  img_one_name: Pur Südtirol 
+  img_one_link: https://www.pursuedtirol.com
 
-  img_two: "img/noi-techpark.png"
-  img_two_name: NOI Techpark
-  img_two_link: https://noi.bz.it/
+  img_two: "img/biokiste.png"
+  img_two_name: Biokistl Südtirol 
+  img_two_link: https://www.biokistl.it
 
-  img_three: "img/idm.png"
-  img_three_name: IDM Suedtirol
-  img_three_link: https://www.idm-suedtirol.com
+discover_partner:
+  img_link: "img/maximilian-wachter-Zigz7HdNS7I-unsplash.png"
+  title: "Earning points"
+  content: "Once registered, you can purchase points or receive them for free from the community organizers (e.g. your municipality, your company, etc.) you are invited in. You can earn points not only making car pooling but also by walking and cycling. Points can be used as vouchers / discounts in our affiliated shops.cta_label: Scopri i negozi partner"
+  cta_label: Look at where shopping points can be used
+  cta_link: "#partners"
+  text_overlay: 1km = 10 points = 0.10€
+  text_overlay_car: 10 points / km for car pooling
+  text_overlay_bike: 20 points / km for bike
+  text_overlay_walking: 30 points / km for walking
 
 discover_partner:
   img_link: "img/maximilian-wachter-Zigz7HdNS7I-unsplash.png"
@@ -88,7 +107,7 @@ discover_community:
   cta_link: "https://www.ummadum.com"
 
 steps:
-  title: Sharing trips with other people
+  title: How does it work?
   step:
     - step_count: 1
       img_link: "img/christin-hume-Hcfwew744z4-unsplash@2x.png"
@@ -105,19 +124,19 @@ steps:
       cta_label: Start your car pooling experience
       cta_link: "https://www.ummadum.com"
     - step_count: 3
-      img_link: "img/christin-hume-Hcfwew744z4-unsplash@2x.png"
-      img_alt: Person subscribing from laptop
-      title: Prenota il tuo viaggio
-      content: Con CarPooling non paghi, spendi punti come passeggero e li guadagni da autista.
-      cta_label: Registrati ora
-      cta_link: "#"
+      img_link: "img/carpooling3.png"
+      img_alt: People making car pooling
+      title: Transform mobility points in shopping points 
+      content: Use the Ummadum APP while walking, cycling or making car pooling, so transform your mobility points in shopping points.
+      cta_label: Start your car pooling experience
+      cta_link: "https://www.ummadum.com"
     - step_count: 4
-      img_link: "/img/christin-hume-Hcfwew744z4-unsplash@2x.png"
-      img_alt: Person subscribing from laptop
-      title: Prenota il tuo viaggio
-      content: Con CarPooling non paghi, spendi punti come passeggero e li guadagni da autista.
-      cta_label: "Registrati ora"
-      cta_link: "#"
+      img_link: "/img/shopping.png"
+      img_alt: Shopping
+      title: Use your shopping points to buy local products and services
+      content: Use the Ummadum APP at the affiliated shopping points in order to consume the shopping points you earned through your sustainable mobility behaviour.
+      cta_label: Start your car pooling experience
+      cta_link: "https://www.ummadum.com"
 
 become_partner:
   title: Are you an organization and are you interested to become part of the ummadum ecosystem?
@@ -133,22 +152,22 @@ become_partner:
   img_alt: Shopping
   title: Use your shopping points in order to purchase local products / services
   content: Affiliated shops just ask you to tap in your APP and decide how many points you want to use. 
-  cta_label: Have a look at who is in the network of shopping points
+  cta_label: Start your car pooling experience
   cta_link: "https://www.ummadum.com"
 
 boxes:
   box:
     - name: For companies
       content: The ummadum service can be a powerful service to motivate your employees to reach their workplace sustainably. Join us and create your community.
-      box_link: "#"
+      box_link: "https://www.ummadum.com"
       btn_label: Contact us
     - name: For shops
       content: The ummadum service can be an additional channels to earn customers. Every months the ummadum system purchases back all the points you have collected from the users.
-      box_link: "#"
+      box_link: "https://www.ummadum.com"
       btn_label: Contact us
     - name: For public organizations 
       content: Public institutions can also foster sustainabile mobility in the area they are responsible for. Join us and create your community so that users can have additional points to use.
-      box_link: "#"
+      box_link: "https://www.ummadum.com"
       btn_label: Contact us
 
 faq:
