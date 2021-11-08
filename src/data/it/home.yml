@@ -1,8 +1,7 @@
-
 offset_image:
   title: Il car pooling sicuro e vicino.
   content: CarPooling è un servizio di car pooling che permette di prenotare viaggi all’interno di comunità ristrette e conosciute, come la realtà di un’azienda o associazione sportiva, così da permetterti di viaggiare sempre con persone di cui ti fidi.
-  cta_label: Prenota viaggio 
+  cta_label: Prenota viaggio
   cta_link: "#"
 
   image_alt: Consume Data
@@ -18,7 +17,7 @@ community:
   img_two_name: NOI Techpark
   img_two_link: https://noi.bz.it/
 
-  img_three: "/img/idm.png" 
+  img_three: "/img/idm.png"
   img_three_name: IDM Suedtirol
   img_three_link: https://www.idm-suedtirol.com
 
@@ -29,7 +28,10 @@ discover_partner:
   content: Con CarPooling non paghi, spendi punti come passeggero e li guadagni da autista. Potrai poi spenderli all’interno dei nostri negozi convenzionati. I punti li puoi acquistare direttamente del sito web Ummadum, oppure sarà direttamente il tuo datore di lavoro a caricarli.
   cta_label: Scopri i negozi partner
   cta_link: "#"
-  text_overlay: 1km = 10 punti = 0.10€
+  text_overlay: 1km = 10 points = 0.10€
+  text_overlay_car: 10 points / km for car pooling
+  text_overlay_bike: 20 points / km for bike
+  text_overlay_walking: 30 points / km for walking
 
 discover_community:
   img_link: "/img/darwin-vegher-IAc1x02D9K0-unsplash.png"
@@ -39,10 +41,10 @@ discover_community:
   cta_label: Prenota viaggio
   cta_link: "#"
 
-steps: 
+steps:
   title: In un attimo sei a bordo
 
-  step: 
+  step:
     - step_count: 1
       img_link: "/img/christin-hume-Hcfwew744z4-unsplash@2x.png"
       img_alt: Person subscribing from laptop
@@ -65,7 +67,7 @@ steps:
       cta_label: Registrati ora
       cta_link: "#"
 
-become_partner: 
+become_partner:
   title: Diventa partner
   content: CarPooling non va oltre i semplici autisti e passeggeri, ma da un’intera community di aziende e negozi partner che stanno contribuendo a rivoluzionare il mondo dei trasporti sostenibili in Alto Adige.
 
@@ -83,7 +85,7 @@ boxes:
       content: Con CarPooling non paghi, spendi punti come passeggero e li guadagni da autista.
       box_link: "#"
       btn_label: Aderisci
-  
+
 faq:
   title: Frequently Asked Questions
   accordion:
@@ -91,4 +93,3 @@ faq:
       answer: Con CarPooling non paghi, spendi punti come passeggero e li guadagni da autista.
     - question: Con CarPooling non paghi, spendi punti come passeggero?
       answer: Con CarPooling non paghi, spendi punti come passeggero e li guadagni da autista.
-      

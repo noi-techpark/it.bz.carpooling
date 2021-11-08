@@ -58,15 +58,6 @@ community:
   img_three_link: https://www.sta.bz.it
   img_three_desc: Pilot project support
 
-discover_partner:
-  img_link: "img/maximilian-wachter-Zigz7HdNS7I-unsplash.png"
-
-  title: Transforming mobility in value
-  content: "Once registered, a user can purchase mobility points or receive them for free from one or more community (e.g. a municipality, a company, etc.). A user can join a community on invitation. Users can transform mobility points in shopping points not only by making car pooling, but also if they walk or cycle. Shopping points can be used as vouchers / discounts in the affiliated shops"
-  cta_label: Look at where shopping points can be used
-  cta_link: "#"
-  text_overlay: 10 points = 0.10€  | 10 points / km for car pooling; 20 points / km for bike; 30 points / km for walking
-
 communityShops:
   title: "List of shops in which you can convert your shopping points in products and services to buy:"
   img_one: "img/pur.png"
@@ -80,7 +71,7 @@ communityShops:
 discover_partner:
   img_link: "img/maximilian-wachter-Zigz7HdNS7I-unsplash.png"
   title: "Earning points"
-  content: "Once registered, you can purchase points or receive them for free from the community organizers (e.g. your municipality, your company, etc.) you are invited in. You can earn points not only making car pooling but also by walking and cycling. Points can be used as vouchers / discounts in our affiliated shops.cta_label: Scopri i negozi partner"
+  content: "Once registered, you can purchase points or receive them for free from the community organizers (e.g. your municipality, your company, etc.) you are invited in. You can earn points not only making car pooling but also by walking and cycling. Points can be used as vouchers / discounts in our affiliated shops."
   cta_label: Look at where shopping points can be used
   cta_link: "#partners"
   text_overlay: 1km = 10 points = 0.10€
@@ -128,21 +119,8 @@ steps:
       cta_link: "https://www.ummadum.com"
 
 become_partner:
-  title: Are you an organization and are you interested to become part of the ummadum ecosystem?
-  content: If you are really committed to build a more sustainable future, then this is the right place for you. All together we can create an alternative to the unsustainability of individual motorized traffic. 
-  img_link: "img/Carpooling.png"
-  img_alt: Car pooling users
-  title: Make car pooling and transform your mobility points in shopping points. The ummadum system will automatically certify your movements for the community moderator.
-  content: Find other users in your communities and start making car pooling
-  cta_label: Start your car pooling experience
-  cta_link: "https://www.ummadum.com"
-  step_count: 4
-  img_link: "img/Shopping.png"
-  img_alt: Shopping
-  title: Use your shopping points in order to purchase local products / services
-  content: Affiliated shops just ask you to tap in your APP and decide how many points you want to use. 
-  cta_label: Start your car pooling experience
-  cta_link: "https://www.ummadum.com"
+  title: Become partner
+  content: Do you want to be part of this community? Identify your possible role(s) and contact us!
 
 boxes:
   box:

@@ -248,6 +248,10 @@ input {
     white-space: nowrap;
     margin: 0 10px 0 0; }
 
+.subtitle {
+  font-size: 24px;
+  margin-top: -15px; }
+
 /*!
  * Hamburgers
  * @description Tasty CSS-animated hamburgers
@@ -1191,13 +1195,15 @@ footer .row img {
         margin-top: 5rem;
         margin-bottom: -5rem; }
         .generic-offset-image > .container > .col.offset img {
-          width: 100%; }
-    @media (max-width: 999px) {
+          width: 250%; }
+    @media (max-width: 980px) {
       .generic-offset-image > .container {
         display: block; }
         .generic-offset-image > .container > .col h1,
         .generic-offset-image > .container > .col p {
-          padding-right: 0; } }
+          padding-right: 0; }
+        .generic-offset-image > .container > .col.offset img {
+          width: 100%; } }
   .generic-offset-image a:hover {
     text-decoration: none !important; }
   .generic-offset-image a img {
@@ -1265,7 +1271,7 @@ section.generic-boxes .square {
 
 section.generic-boxes .single-box-block {
   width: calc(100% - 30px);
-  height: calc(100% - 30px);
+  min-height: calc(100% - 30px);
   margin-left: 15px;
   padding: 30px; }
   section.generic-boxes .single-box-block .single-box-content {
@@ -1279,6 +1285,10 @@ section.generic-boxes h6 {
 
 section.generic-boxes p {
   font-size: 1.8rem; }
+
+@media (max-width: 980px) {
+  section.generic-boxes .container-boxes .square:nth-child(2n) {
+    margin-bottom: 20px; } }
 
 .partners-list {
   text-align: center;
@@ -1300,17 +1310,29 @@ section.generic-boxes p {
     width: 100vw;
     margin-left: -5vw; } }
 
-.col-images .row {
+.col-images .list {
   text-align: center; }
-  .col-images .row a:hover {
-    text-decoration: none !important; }
-  .col-images .row a img {
-    max-width: 300px;
-    width: auto;
-    padding: 1rem 5rem; }
-  .col-images .row p {
-    font-size: 1.8rem !important;
-    margin-bottom: 0 !important; }
+  .col-images .list .item {
+    display: inline-block; }
+    .col-images .list .item a:hover {
+      text-decoration: none !important; }
+    .col-images .list .item a img {
+      max-width: 300px;
+      width: auto;
+      padding: 1rem 5rem; }
+    .col-images .list .item p {
+      font-size: 1.8rem !important;
+      margin-bottom: 0 !important;
+      display: block;
+      user-select: none; }
+
+@media (max-width: 980px) {
+  .col-images .list .item {
+    margin-bottom: 15px; }
+    .col-images .list .item a img {
+      max-width: 250px; }
+    .col-images .list .item p {
+      padding-bottom: 25px; } }
 
 section.img-text-img {
   font-size: 1.8rem !important;
@@ -1423,6 +1445,9 @@ section.steps .row {
       font-weight: bold; }
   section.steps .row.left-aligned {
     justify-content: left; }
+
+.steps-image-info {
+  max-width: 400px; }
 
 section.ipo {
   font-size: 1.8rem !important;
