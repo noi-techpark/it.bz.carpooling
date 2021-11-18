@@ -1,0 +1,21 @@
+{{"<!-- Images slider -->" | safeHTML }}
+<section class="slide-images">
+  <div class="container">
+    <div class="col-12 text-center">
+      <h3>{{ .title | markdownify }}</h3>
+    </div>
+  </div>
+
+  <div class="list">
+    <div class="content">
+      {{ range .list }}
+      <div class="item">
+        <a href="{{.link}}" target="_blank" class="col">
+          <img src="{{ .img }}" alt="{{ .name }}" />
+        </a>
+      </div>
+      {{ end }}
+    </div>
+  </div>
+</section>
+{{"<!-- /Three Imgs Columns -->" | safeHTML }}

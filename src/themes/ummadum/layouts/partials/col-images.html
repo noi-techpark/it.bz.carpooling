@@ -8,7 +8,7 @@
     <div class="list">
       {{ if .img_one }}
       <div class="item">
-        <a href="{{.img_one_link}}" class="col">
+        <a href="{{.img_one_link}}" target="_blank" class="col">
           <img src="{{ .img_one }}" alt="{{ .img_one_name }}" />
         </a>
         {{ if .img_one_desc }}
@@ -19,7 +19,7 @@
 
       <div class="item">
         {{ if .img_two }}
-        <a href="{{.img_two_link}}" class="col">
+        <a href="{{.img_two_link}}" target="_blank" class="col">
           <img src="{{ .img_two }}" alt="{{ .img_two_name }}" />
         </a>
         {{ if .img_two_desc }}
@@ -29,7 +29,7 @@
 
       {{ if .img_three }}
       <div class="item">
-        <a href="{{.img_three_link}}" class="col">
+        <a href="{{.img_three_link}}" target="_blank" class="col">
           <img src="{{ .img_three }}" alt="{{ .img_three_name }}" />
         </a>
         {{ if .img_three_desc }}
@@ -38,13 +38,13 @@
       </div>
       {{ end }} {{ if .img_four }}
       <div class="item">
-        <a href="{{.img_four_link}}" class="col">
+        <a href="{{.img_four_link}}" target="_blank" class="col">
           <img src="{{ .img_four }}" alt="{{ .img_four_name }}" />
         </a>
       </div>
       {{ end }} {{ if .img_five }}
       <div class="item">
-        <a href="{{.img_five_link}}" class="col">
+        <a href="{{.img_five_link}}" target="_blank" class="col">
           <img src="{{ .img_five }}" alt="{{ .img_five_name }}" />
         </a>
       </div>
