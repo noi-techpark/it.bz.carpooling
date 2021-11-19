@@ -1334,41 +1334,6 @@ section.generic-boxes p {
     .col-images .list .item p {
       padding-bottom: 25px; } }
 
-@keyframes move-grid {
-  50% {
-    transform: translateX(calc(100vw - 100%)); }
-  to {
-    transform: none; } }
-
-.slide-images .list {
-  overflow: hidden; }
-  .slide-images .list .content {
-    position: relative;
-    float: left;
-    white-space: nowrap;
-    animation: move-grid 120s linear infinite; }
-    .slide-images .list .content .item {
-      display: inline-block; }
-      .slide-images .list .content .item a:hover {
-        text-decoration: none !important; }
-      .slide-images .list .content .item a img {
-        max-width: 300px;
-        width: auto;
-        padding: 1rem 5rem; }
-      .slide-images .list .content .item p {
-        font-size: 1.8rem !important;
-        margin-bottom: 0 !important;
-        display: block;
-        user-select: none; }
-
-@media (max-width: 980px) {
-  .slide-images .list .item {
-    margin-bottom: 15px; }
-    .slide-images .list .item a img {
-      max-width: 250px; }
-    .slide-images .list .item p {
-      padding-bottom: 25px; } }
-
 section.img-text-img {
   font-size: 1.8rem !important;
   padding: 0; }

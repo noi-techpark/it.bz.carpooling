@@ -9,37 +9,31 @@ offset_image:
 
 testing_companies:
   title: Companies testing the service
-  img_one: "img/IPRONA.png" 
-  img_one_name: IPRONA
-  img_one_link: https://www.iprona.com
-  
-  img_two: "img/DrSchar.png" 
-  img_two_name: Dr. Schär
-  img_two_link: https://www.drschaer.com
-  
-  img_three: "img/MEMC.png" 
-  img_three_name: MEMC
-  img_three_link: https://www.gw-semi.com/
-  
-  img_four: "img/oberalp.png" 
-  img_four_name: Oberalp
-  img_four_link: https://www.oberalp.com
-  
-  img_five: "img/idm.png"
-  img_five_name: IDM Suedtirol
-  img_five_link: https://www.idm-suedtirol.com
-
-  img_six: "img/noi-techpark.png"
-  img_six_name: NOI Techpark
-  img_six_link: https://noi.bz.it/
-  
-  img_seven: "img/BZG.png"
-  img_seven_name: "Bezirksgemeinschaft Burggrafenamt"
-  img_seven_link: https://www.bzgbga.it/
-
-  img_eight: "img/systent.png"
-  img_seven_name: "systent"
-  img_seven_link: https://www.systent.it
+  list:
+    - img: "img/IPRONA.png" 
+      name: IPRONA
+      link: https://www.iprona.com
+    - img: "img/DrSchar.png" 
+      name: "Dr. Schär"
+      link: https://www.drschaer.com
+    - img: "img/MEMC.png" 
+      name: MEMC
+      link: https://www.gw-semi.com/    
+    - img: "img/oberalp.png" 
+      name: Oberalp
+      link: https://www.oberalp.com    
+    - img: "img/idm.png"
+      name: "IDM Suedtirol"
+      link: https://www.idm-suedtirol.com
+    - img: "img/noi-techpark.png"
+      name: "NOI Techpark"
+      link: https://noi.bz.it/
+    - img: "img/BZG.png"
+      name: "Bezirksgemeinschaft Burggrafenamt"
+      link: https://www.bzgbga.it/
+    - img: "img/systent.png"
+      name: "systent"
+      link: https://www.systent.it
   
 community:
   title: "Organizations involved"
