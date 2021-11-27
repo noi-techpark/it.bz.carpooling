@@ -998,22 +998,32 @@ header {
         font-size: 1.2rem; }
       header #header-top.is-active .container .header-wrap .sponsor {
         display: none; }
-    header #header-top .menu li {
-      line-height: 1; }
-    header #header-top .menu ul li:last-child {
-      background-color: rgba(255, 255, 255, 0.9);
-      border-radius: 10px !important;
-      margin-left: 12.5px;
-      transition: all 0.5 ease;
-      text-decoration: none !important; }
-      header #header-top .menu ul li:last-child:hover {
+    header #header-top .menu {
+      /* ul li:last-child {
+        background-color: rgba(255, 255, 255, 0.9);
+        border-radius: 10px !important;
+        margin-left: 12.5px;
         transition: all 0.5 ease;
-        background-color: white; }
-      header #header-top .menu ul li:last-child a {
-        color: #176355 !important;
-        margin: 0 1rem; }
-        header #header-top .menu ul li:last-child a:hover {
-          text-decoration: none; }
+        text-decoration: none !important;
+
+        &:hover {
+          transition: all 0.5 ease;
+          background-color: white;
+        }
+
+        a {
+          color: $link !important;
+          margin: 0 1rem;
+
+          &:hover {
+            text-decoration: none;
+          }
+        }
+      } */ }
+      header #header-top .menu li {
+        line-height: 1; }
+      header #header-top .menu .app-badge {
+        margin-left: 10px; }
     header #header-top .container .header-wrap {
       width: auto;
       display: flex;
@@ -1105,13 +1115,17 @@ header {
         padding: 0; }
         header #menu-wrap-mobile .menu ul li {
           width: 100%;
-          padding: 10px 0; }
-          header #menu-wrap-mobile .menu ul li:last-child {
-            font-weight: bold; }
+          padding: 10px 0;
+          /* &:last-child {
+            font-weight: bold;
+          } */ }
           header #menu-wrap-mobile .menu ul li a {
             letter-spacing: 0.02em;
             font-size: 2.5rem;
             line-height: 133%; }
+        header #menu-wrap-mobile .menu ul .app-badge {
+          margin-top: 20px;
+          margin-right: 10px; }
     header #menu-wrap-mobile .bottom-decoration {
       content: "";
       background-image: url("../menu-pattern.svg");
@@ -1410,7 +1424,8 @@ section.img-text-img {
     section.img-text-img .container .features-ct {
       position: relative;
       left: -300px;
-      margin-bottom: -100px; }
+      margin-bottom: -100px;
+      display: none; }
       section.img-text-img .container .features-ct .semi-opacity {
         display: block;
         margin-top: 10rem;
