@@ -128,6 +128,12 @@
                 <a class="menu-item-link" href="{{ .URL }}"> {{ .Name }} </a>
               </li>
               {{end}}
+              <a href="javascript:void(0)" onClick="openAppLink('android')">
+                <img src="img/store-google.svg" class="app-badge google-play" />
+              </a>
+              <a href="javascript:void(0)" onClick="openAppLink('ios')">
+                <img src="img/store-apple.svg" class="app-badge app-store" />
+              </a>
             </ul>
           </div>
           {{ partial "lang.html" . }}
@@ -146,15 +152,44 @@
           <ul>
             {{ range .Site.Menus.main }} {{ if ne .Name "Home" }}
             <li>
-              <a class="menu-item-link" href="{{ .URL }}"
-                >{{ .Name }}</a
-              >
+              <a class="menu-item-link" href="{{ .URL }}">{{ .Name }}</a>
             </li>
             {{end}} {{ end }}
+            <a href="javascript:void(0)" onClick="openAppLink('android')">
+              <img src="img/store-google.svg" class="app-badge google-play" />
+            </a>
+            <a href="javascript:void(0)" onClick="openAppLink('ios')">
+              <img src="img/store-apple.svg" class="app-badge app-store" />
+            </a>
           </ul>
         </div>
       </div>
       <span class="bottom-decoration"></span>
     </div>
   </header>
+  <script>
+    function openAppLink(linkType) {
+      let url = "";
+      const isMobileDevice =
+        /Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(
+          navigator.userAgent
+        );
+
+      switch (linkType) {
+        case "android":
+          url = isMobileDevice
+            ? "https://umm.li/7Qpv1"
+            : "https://umm.li/JaL73";
+          break;
+
+        case "ios":
+          url = isMobileDevice
+            ? "https://umm.li/G7RNl"
+            : "https://umm.li/zb8xO";
+          break;
+      }
+
+      window.location = url;
+    }
+  </script>
 </body>

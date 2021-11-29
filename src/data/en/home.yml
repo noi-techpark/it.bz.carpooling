@@ -1,5 +1,5 @@
 offset_image:
-  title: Much more than the car pooling service of South Tyrol. 
+  title: Much more than the car pooling service of South Tyrol.
   content: ummadum is not only a new car pooling service that allows people to share rides with their own private car. By driving together, you can earn points that can be used to purchase local products and services
   cta_label: Start your car pooling experience
   cta_link: "https://www.ummadum.com"
@@ -10,18 +10,18 @@ offset_image:
 testing_companies:
   title: Companies testing the service
   list:
-    - img: "img/IPRONA.png" 
+    - img: "img/IPRONA.png"
       name: IPRONA
       link: https://www.iprona.com
-    - img: "img/DrSchar.png" 
+    - img: "img/DrSchar.png"
       name: "Dr. Schär"
       link: https://www.drschaer.com
-    - img: "img/MEMC.png" 
+    - img: "img/MEMC.png"
       name: MEMC
-      link: https://www.gw-semi.com/    
-    - img: "img/oberalp.png" 
+      link: https://www.gw-semi.com/
+    - img: "img/oberalp.png"
       name: Oberalp
-      link: https://www.oberalp.com    
+      link: https://www.oberalp.com
     - img: "img/idm.png"
       name: "IDM Suedtirol"
       link: https://www.idm-suedtirol.com
@@ -34,20 +34,20 @@ testing_companies:
     - img: "img/systent.png"
       name: "systent"
       link: https://www.systent.it
-  
+
 community:
   title: "Organizations involved"
   img_one: "img/noi-techpark.png"
   img_one_name: NOI Techpark
   img_one_link: https://noi.bz.it/
   img_one_desc: Pilot project coordination
- 
+
   img_two: "img/BZG.png"
   img_two_name: "Bezirksgemeinschaft Burggrafenamt"
   img_two_link: https://www.bzgbga.it/
   img_two_desc: Pilot project support
 
-  img_three: "img/STA.png" 
+  img_three: "img/STA.png"
   img_three_name: STA
   img_three_link: https://www.sta.bz.it
   img_three_desc: Pilot project support
@@ -55,11 +55,11 @@ community:
 communityShops:
   title: "List of shops in which you can convert your shopping points in products and services to buy:"
   img_one: "img/pur.png"
-  img_one_name: Pur Südtirol 
+  img_one_name: Pur Südtirol
   img_one_link: https://www.pursuedtirol.com
 
   img_two: "img/biokiste.png"
-  img_two_name: Biokistl Südtirol 
+  img_two_name: Biokistl Südtirol
   img_two_link: https://www.biokistl.it
 
 discover_partner:
@@ -67,7 +67,7 @@ discover_partner:
   title: "Earning points"
   content: "Once registered, you can purchase points or receive them for free from the community organizers (e.g. your municipality, your company, etc.) you are invited in. You can earn points not only making car pooling but also by walking and cycling. Points can be used as vouchers / discounts in our affiliated shops."
   cta_label: Look at where shopping points can be used
-  cta_link: "#partners"
+  cta_link: "#shopping-points"
   text_overlay: 1km = 10 points = 0.10€
   text_overlay_car: 10 points / km for car pooling
   text_overlay_bike: 20 points / km for bike
@@ -100,7 +100,7 @@ steps:
     - step_count: 3
       img_link: "img/carpooling3.png"
       img_alt: People making car pooling
-      title: Transform mobility points in shopping points 
+      title: Transform mobility points in shopping points
       content: Use the Ummadum APP while walking, cycling or making car pooling, so transform your mobility points in shopping points.
       cta_label: Start your car pooling experience
       cta_link: "https://www.ummadum.com"
@@ -126,7 +126,7 @@ boxes:
       content: The ummadum service can be an additional channels to earn customers. Every months the ummadum system purchases back all the points you have collected from the users.
       box_link: "https://www.ummadum.com"
       btn_label: Contact us
-    - name: For public organizations 
+    - name: For public organizations
       content: Public institutions can also foster sustainabile mobility in the area they are responsible for. Join us and create your community so that users can have additional points to use.
       box_link: "https://www.ummadum.com"
       btn_label: Contact us

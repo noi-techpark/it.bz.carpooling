@@ -36,11 +36,6 @@ url    = "#faq"
 name   = "FAQ"
 weight = 30
 
-[[languages.en.menu.main]]
-url    = "https://www.ummadum.com/"
-name   = "Book a travel"
-weight = 40
-
 [languages.it]
 weight = 20
 contentDir = "content/it/"
@@ -61,11 +56,6 @@ url    = "#faq"
 name   = "Domande frequenti"
 weight = 30
 
-[[languages.it.menu.main]]
-url    = "https://www.ummadum.com/"
-name   = "Prenota un viaggio"
-weight = 40
-
 [languages.de]
 weight = 10
 contentDir = "content/de/"
@@ -85,11 +75,6 @@ weight = 20
 url    = "#faq"
 name   = "FAQ"
 weight = 30
-
-[[languages.de.menu.main]]
-url    = "https://www.ummadum.com/"
-name   = "Buche eine Fahrt"
-weight = 40
 
 
 ######################################## FOOTER
