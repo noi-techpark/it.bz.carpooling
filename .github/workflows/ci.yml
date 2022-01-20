@@ -2,12 +2,12 @@ name: ci it.bz.carpooling
 
 on: 
   push:
-    paths:
-      - "!README.md"
+    paths-ignore:
+      - "README.md"
       
   pull_request:
-    paths:
-      - "!README.md"
+    paths-ignore:
+      - "README.md"
 
 
   # Allows you to run this workflow manually from the Actions tab
