@@ -1,7 +1,7 @@
 # Ummadum - Alto Adige
 Repository for the [Carpooling](#) website created with [Hugo](https://gohugo.io/).
 
-[![ci it.bz.carpooling](https://github.com/noi-techpark/it.bz.carpooling/actions/workflows/ci.yml/badge.svg)](https://github.com/noi-techpark/it.bz.carpooling/actions/workflows/ci.yml)
+[![CI](https://github.com/noi-techpark/it.bz.carpooling/actions/workflows/ci.yml/badge.svg)](https://github.com/noi-techpark/it.bz.carpooling/actions/workflows/ci.yml)
 
 ## Table of contents
 
