@@ -29,12 +29,16 @@ jobs:
     concurrency: deploy-test
     env:
       AWS_S3_BUCKET_NAME : 'eu.testingmachine.carpooling'
+      HUGO_BASEURL: 'https://carpooling.testingmachine.eu/'
     steps:
       - name: Checkout source code
         uses: actions/checkout@v2
 
       - name: Install hugo
         run: sudo apt-get install hugo
+
+      - name: Configuration hugo
+        run: sed -i -e "s%https://example.com%${{env.HUGO_BASEURL}}%g" src/config.toml
 
       - name: Build hugo
         run: hugo -s src -d ../target
