@@ -22,10 +22,13 @@ testing_companies:
     - img: "img/oberalp.png"
       name: Oberalp
       link: https://www.oberalp.com
+    - img: "img/sportler.png"
+      name: Sportler
+      link: https://www.sportler.com
     - img: "img/idm.png"
       name: "IDM Suedtirol"
       link: https://www.idm-suedtirol.com
-    - img: "img/noi-techpark.png"
+    - img: "img/NOI_1_BK.png"
       name: "NOI Techpark"
       link: https://noi.bz.it/
     - img: "img/BZG.png"
@@ -47,16 +50,16 @@ community:
   img_two_link: https://www.bzgbga.it/
   img_two_desc: Pilot project support
 
-  img_three: "img/STA.png"
+  img_three: "img/STA_v2.png"
   img_three_name: STA
   img_three_link: https://www.sta.bz.it
   img_three_desc: Pilot project support
 
 communityShops:
   title: "List of shops in which you can convert your shopping points in products and services to buy:"
-  img_one: "img/pur.png"
-  img_one_name: Pur Südtirol
-  img_one_link: https://www.pursuedtirol.com
+  img_one: "img/despar.png"
+  img_one_name: Despar
+  img_one_link: https://www.despar.it
 
   img_two: "img/biokiste.png"
   img_two_name: Biokistl Südtirol
