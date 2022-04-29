@@ -67,8 +67,8 @@ communityShops:
 
 discover_partner:
   img_link: "img/maximilian-wachter-Zigz7HdNS7I-unsplash.png"
-  title: "Earning points"
-  content: "Once registered, you can purchase points or receive them for free from the community organizers (e.g. your municipality, your company, etc.) you are invited in. You can earn points not only making car pooling but also by walking and cycling. Points can be used as vouchers / discounts in our affiliated shops."
+  title: "Buy and distribute a mobility budget in your community"
+  content: "As an organization you can buy a mobility budget and distribute it in the members of your community (e.g. your company) in a flexible way. These members can then transform this budget in “ummadum points” by moving sustainably, i.e. walking, cycling or making car pooling. The “ummadum points” can be finally used to purchase products / services by local retailers."
   cta_label: Look at where shopping points can be used
   cta_link: "#shopping-points"
   text_overlay: 1km = 10 points = 0.10€
@@ -78,10 +78,10 @@ discover_partner:
 
 discover_community:
   img_link: "img/darwin-vegher-IAc1x02D9K0-unsplash.png"
-  title: Your trusted community
-  content: People can belong to one or more communities, so to simplify the creation of a trusted network of contacts. Because safety and security matter.
-  cta_label: Start your car pooling experience
-  cta_link: "https://www.ummadum.com"
+  title: "Be part of a sustainable ecosystem"
+  content: "People can belong to one or more communities, and receive multiple mobility budgets. People can also enter in contact with people with other communities; for car pooling this is particularly important since it helps to build a critical mass of users wanting to move sustainably."
+  cta_label: Contact us and start this journey in smart sustainable mobility
+  cta_link: "mailto:office@ummadum.com"
 
 steps:
   title: How does it work?
