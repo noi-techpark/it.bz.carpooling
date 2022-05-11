@@ -90,7 +90,7 @@ steps:
       img_link: "img/christin-hume-Hcfwew744z4-unsplash@2x.png"
       img_alt: Person subscribing from laptop
       title: Contact ummadum and ask to be part of the community
-      content: Modalities of participation and a deeper insight into the system will be provided in a first presentation meeting
+      content: "Modalities of participation and a deeper insight into the system will be provided in a first presentation meeting. Test :,;!"
       cta_label: Start your car pooling experience
       cta_link: "mailto:office@ummadum.com"
     - step_count: 2
