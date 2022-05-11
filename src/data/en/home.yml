@@ -90,28 +90,28 @@ steps:
       img_link: "img/christin-hume-Hcfwew744z4-unsplash@2x.png"
       img_alt: Person subscribing from laptop
       title: Contact ummadum and ask to be part of the community
-      content: It is simple: just write an e-mail to the customer service, which will organize in short time a first meeting in which the system and the modalities to participate to this pilot initiative will be presented in more detail.
+      content: xxxx
       cta_label: Start your car pooling experience
       cta_link: "mailto:office@ummadum.com"
     - step_count: 2
       img_link: "img/Community.png"
       img_alt: Community of people
       title: Decide with ummadum how to set up the system in your organization
-      content: Once you have decided to be part of this community, the ummadum team will support you in deciding how to best configure the distribution of the mobility budget in your community. This is strictly connected to the choice of users’ groups that are going to be initially involved. Ummadum will be responsible to implement all the agreed configuration choices.
+      content: xxxx 
       cta_label: Start your car pooling experience
       cta_link: "mailto:office@ummadum.com"
     - step_count: 3
       img_link: "img/carpooling3.png"
       img_alt: People making car pooling
       title: Distribute the points among the members of your organization and motivate them to move sustainably
-      content: The final preparatory task is related to assignment of the mobility budget across the members of your community through the ummadum portal. This is an easy task that you can do on your own, after a quick training of the ummadum staff. For a satisfactory execution in the usage of the service, it is highly recommended to involve and motivate your user group since the beginning. 
+      content: xxxx
       cta_label: Start your car pooling experience
       cta_link: "mailto:office@ummadum.com"
     - step_count: 4
       img_link: "/img/shopping.png"
       img_alt: People enjoying their ummadum points
       title: Monitor the progress of the sustainable mobility behavior of your users
-      content: Through the ummadum portal you can check how the budget has been used by users and how much points they have earned. The portal provides you also useful KPIs to quantitatively assess the environmental footprint of this measure (e.g. CO2 savings). You can use this information to understand how to fine-tune your internal communication measures. The ummadum staff can help you in this as well!
+      content: xxxx 
       cta_label: Start your car pooling experience
       cta_link: "mailto:office@ummadum.com"
 
