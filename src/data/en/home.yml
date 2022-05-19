@@ -1,5 +1,5 @@
 offset_image:
-  title: A solution for sustainabile mobility in South Tyrolean companies
+  title: A solution for sustainable mobility in South Tyrolean companies
   content: In the scope of the EU-project MENTOR, new different smart mobility services were launched in order to start creating a sustainable alternative to private car. One of these services is a new car pooling service, that has been launched in cooperation with the company ummadum. The innovative aspect is the possibility for users to earn points that can be used to purchase local products and services.
   cta_label: More info about the EU-project MENTOR
   cta_link: "https://www.comune.merano.bz.it/it/Progetto_MENTOR"
@@ -37,6 +37,15 @@ testing_companies:
     - img: "img/systent.png"
       name: "systent"
       link: https://www.systent.it
+    - img: "img/EURAC.png"
+      name: "EURAC"
+      link: https://www.eurac.edu
+    - img: "img/UNIBZ.png"
+      name: "UNIBZ"
+      link: https://www.unibz.it
+    - img: "img/Doppelmayr.png"
+      name: "Doppelmayr"
+      link: https://www.doppelmayr.com
 
 community:
   title: "Organizations involved"
@@ -64,6 +73,10 @@ communityShops:
   img_two: "img/biokiste.png"
   img_two_name: Biokistl Südtirol
   img_two_link: https://www.biokistl.it
+  
+  img_three: "img/sportler.png"
+  img_three_name: Sportler
+  img_three_link: https://www.sportler.com
 
 discover_partner:
   img_link: "img/Mitfahrgelegenheit_1.png"
