@@ -31,9 +31,6 @@ testing_companies:
     - img: "img/NOI_1_BK.png"
       name: "NOI Techpark"
       link: https://noi.bz.it/
-    - img: "img/BZG.png"
-      name: "Bezirksgemeinschaft Burggrafenamt"
-      link: https://www.bzgbga.it/
     - img: "img/systent.png"
       name: "systent"
       link: https://www.systent.it
