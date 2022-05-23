@@ -62,7 +62,7 @@ community:
   img_three_desc: Pilot project support
 
 communityShops:
-  title: "List of shops in which you can convert your shopping points in products and services to buy:"
+  title: "List of shops in which shopping points can be converted in products and services to buy:"
   img_one: "img/despar.png"
   img_one_name: Despar
   img_one_link: https://www.despar.it
