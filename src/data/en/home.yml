@@ -153,4 +153,10 @@ faq:
     - question: How does the assignment of the mobility budget to employees work?
       answer: Each organisation can manage this process itself via a web-based dashboard that is also made available to monitor the results of system utilisation. These details are discussed and explored in detail with ummadum during the process of system configuration according to the organisation's needs.
     - question: Does the system allow to certify movements of users?
-      answer: The walking, cycling and carpooling trips are certified thanks to an automatic monitoring mechanism based on the GPS signal on the smartphone. This monitoring is only functional to verify the execution of a trip: after this control, the GPS positions of the users are deleted.
+      answer: The walking, cycling and carpooling trips are certified thanks to an automatic monitoring mechanism based on the GPS signal on the smartphone. This monitoring is only functional to verify the execution of a trip, since after this control the GPS positions of the users are deleted.
+    - question: What tax breaks are possible for an organisation?
+      answer: All indications on this can be found in a note from the Agenzia delle Entrate (note 461 / 2019)
+    - question: Is there a mechanism to judge the reliability of users?
+      answer: Users have a rating function with which they can rate (from 1 to 5 stars) the reliability and seriousness of other users. Users who demonstrate unsuitable behavior are first adviced and in extreme case blocked from participating in the system.
+    - question: How are security and privacy of users guaranteed?
+      answer: The entire system is designed according to the 'privacy by default / privacy by design' principle, in accordance with the GDPR directive. All communication between the various system components (e.g. APPs, back-end systems) is encrypted, and only data that is strictly necessary for users is saved. Access to the systems is secure, by means of user name and password. Data of users and organisations that decide to unsubscribe from the system are deleted.      
