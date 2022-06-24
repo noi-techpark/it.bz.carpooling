@@ -43,6 +43,9 @@ testing_companies:
     - img: "img/Doppelmayr.png"
       name: "Doppelmayr"
       link: https://www.doppelmayr.com
+    - img: "img/Alperia.png"
+      name: "Alperia"
+      link: https://www.alperia.eu
 
 community:
   title: "Organizations involved"
