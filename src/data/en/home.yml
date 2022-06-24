@@ -152,7 +152,7 @@ faq:
   accordion:
     - question: How does the assignment of the mobility budget to employees work?
       answer: Each organisation can manage this process itself via a web-based dashboard that is also made available to monitor the results of system utilisation. These details are discussed and explored in detail with ummadum during the process of system configuration according to the organisation's needs.
-    - question: Does the system allow to certify users' movements?
+    - question: Does the system allow to certify movements of users?
       answer: The walking, cycling and carpooling trips are certified thanks to an automatic monitoring mechanism based on the GPS signal of the smartphone. This monitoring is only functional to guarantee the execution of a trip through a certain transport mode, as declared by the user: when a trip is completed, the user's GPS positions are deleted.
     - question: What tax breaks are possible for an organisation?
       answer: All indications on this can be found in a note from the Agenzia delle Entrate (note 461 / 2019)
