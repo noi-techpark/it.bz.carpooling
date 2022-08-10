@@ -10,46 +10,46 @@ offset_image:
 testing_companies:
   title: Le aziende che stanno testando il servizio di car pooling
   list:
-    - img: "img/IPRONA.png"
+    - img: "/img/IPRONA.png"
       name: IPRONA
       link: https://www.iprona.com
-    - img: "src/static/img/DrSchar.png"
+    - img: "/img/DrSchar.png"
       name: "Dr. Schär"
       link: https://www.drschaer.com
-    - img: "img/MEMC.png"
+    - img: "/img/MEMC.png"
       name: MEMC
       link: https://www.gw-semi.com/
-    - img: "img/oberalp.png"
+    - img: "/img/oberalp.png"
       name: Oberalp
       link: https://www.oberalp.com
-    - img: "img/sportler.png"
+    - img: "/img/sportler.png"
       name: Sportler
       link: https://www.sportler.com
-    - img: "img/idm.png"
+    - img: "/img/idm.png"
       name: "IDM Suedtirol"
       link: https://www.idm-suedtirol.com
-    - img: "img/NOI_1_BK.png"
+    - img: "/img/NOI_1_BK.png"
       name: "NOI Techpark"
       link: https://noi.bz.it/
-    - img: "img/systent.png"
+    - img: "/img/systent.png"
       name: "systent"
       link: https://www.systent.it
-    - img: "img/EURAC.png"
+    - img: "/img/EURAC.png"
       name: "EURAC"
       link: https://www.eurac.edu
-    - img: "img/UNIBZ.png"
+    - img: "/img/UNIBZ.png"
       name: "UNIBZ"
       link: https://www.unibz.it
-    - img: "img/Doppelmayr.png"
+    - img: "/img/Doppelmayr.png"
       name: "Doppelmayr"
       link: https://www.doppelmayr.com
-    - img: "img/Alperia.png"
+    - img: "/img/Alperia.png"
       name: "Alperia"
       link: https://www.alperia.eu
-    - img: "img/hgv.png"
+    - img: "/img/hgv.png"
       name: "HGV"
       link: https://www.hgv.it
-    - img: "img/FraunhoferItalia.png"
+    - img: "/img/FraunhoferItalia.png"
       name: "Fraunhofer Italia"
       link: https://www.fraunhofer.it/
 community:
