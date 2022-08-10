@@ -52,19 +52,37 @@ testing_companies:
     - img: "/img/FraunhoferItalia.png"
       name: "Fraunhofer Italia"
       link: https://www.fraunhofer.it/
+
 community:
-  title: È già utilizzato da oltre 4k viaggiatori e 200 aziende
-  img_one: "/img/leitner.png"
-  img_one_name: Leitner
-  img_one_link: https://www.leitner.com/
+  title: "Organizazzioni coinvolte"
+  img_one: "/img/NOI_1_BK.png"
+  img_one_name: NOI Techpark
+  img_one_link: https://noi.bz.it/
+  img_one_desc: Coordinamento della sperimentazione
 
-  img_two: "/img/noi-techpark.png"
-  img_two_name: NOI Techpark
-  img_two_link: https://noi.bz.it/
+  img_two: "/img/BZG.png"
+  img_two_name: "Bezirksgemeinschaft Burggrafenamt"
+  img_two_link: https://www.bzgbga.it/
+  img_two_desc: Supporto alla sperimentazione
 
-  img_three: "/img/idm.png"
-  img_three_name: IDM Suedtirol
-  img_three_link: https://www.idm-suedtirol.com
+  img_three: "/img/STA_v2.png"
+  img_three_name: STA
+  img_three_link: https://www.sta.bz.it
+  img_three_desc: Supporto alla sperimentazione
+
+communityShops:
+  title: "Elenco di negozi in cui gli shopping points possono essere convertiti in prodotti e servizi da acquistare:"
+  img_one: "/img/despar.png"
+  img_one_name: Despar
+  img_one_link: https://www.despar.it
+
+  img_two: "/img/biokiste.png"
+  img_two_name: Biokistl Südtirol
+  img_two_link: https://www.biokistl.it
+  
+  img_three: "/img/sportler.png"
+  img_three_name: Sportler
+  img_three_link: https://www.sportler.com
 
 discover_partner:
   img_link: "/img/maximilian-wachter-Zigz7HdNS7I-unsplash.png"
