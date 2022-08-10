@@ -6,7 +6,52 @@ offset_image:
 
   image_alt: Consume Data
   image_link: "/img/background.png"
-
+  
+testing_companies:
+  title: Le aziende che stanno testando il servizio di car pooling
+  list:
+    - img: "img/IPRONA.png"
+      name: IPRONA
+      link: https://www.iprona.com
+    - img: "img/DrSchar.png"
+      name: "Dr. Schär"
+      link: https://www.drschaer.com
+    - img: "img/MEMC.png"
+      name: MEMC
+      link: https://www.gw-semi.com/
+    - img: "img/oberalp.png"
+      name: Oberalp
+      link: https://www.oberalp.com
+    - img: "img/sportler.png"
+      name: Sportler
+      link: https://www.sportler.com
+    - img: "img/idm.png"
+      name: "IDM Suedtirol"
+      link: https://www.idm-suedtirol.com
+    - img: "img/NOI_1_BK.png"
+      name: "NOI Techpark"
+      link: https://noi.bz.it/
+    - img: "img/systent.png"
+      name: "systent"
+      link: https://www.systent.it
+    - img: "img/EURAC.png"
+      name: "EURAC"
+      link: https://www.eurac.edu
+    - img: "img/UNIBZ.png"
+      name: "UNIBZ"
+      link: https://www.unibz.it
+    - img: "img/Doppelmayr.png"
+      name: "Doppelmayr"
+      link: https://www.doppelmayr.com
+    - img: "img/Alperia.png"
+      name: "Alperia"
+      link: https://www.alperia.eu
+    - img: "img/hgv.png"
+      name: "HGV"
+      link: https://www.hgv.it
+    - img: "img/FraunhoferItalia.png"
+      name: "Fraunhofer Italia"
+      link: https://www.fraunhofer.it/
 community:
   title: È già utilizzato da oltre 4k viaggiatori e 200 aziende
   img_one: "/img/leitner.png"
