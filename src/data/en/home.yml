@@ -46,6 +46,12 @@ testing_companies:
     - img: "img/Alperia.png"
       name: "Alperia"
       link: https://www.alperia.eu
+    - img: "img/hgv.png"
+      name: "HGV"
+      link: https://www.hgv.it
+    - img: "img/FraunhoferItalia.png"
+      name: "Fraunhofer Italia"
+      link: https://www.fraunhofer.it/
 
 community:
   title: "Organizations involved"
