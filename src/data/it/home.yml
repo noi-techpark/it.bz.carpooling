@@ -13,7 +13,7 @@ testing_companies:
     - img: "img/IPRONA.png"
       name: IPRONA
       link: https://www.iprona.com
-    - img: "img/DrSchar.png"
+    - img: "src/static/img/DrSchar.png"
       name: "Dr. Schär"
       link: https://www.drschaer.com
     - img: "img/MEMC.png"
