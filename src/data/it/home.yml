@@ -87,7 +87,7 @@ communityShops:
 discover_partner:
   img_link: "img/Mitfahrgelegenheit_1.png"
   title: "Acquista e distribuisci un budget di mobilita' all'interno della tua organizzazione"
-  content: "Come organizzazione puoi acquistare un budget di mobilità e distribuirlo ai membri della tua community (ad esempio i collaboratori della tua azienda) in modo flessibile. Questi membri possono poi trasformare questo budget in "punti ummadum" spostandosi in modo sostenibile, ad esempio camminando, andando in bicicletta o facendo car pooling. I "punti ummadum" possono infine essere utilizzati per acquistare prodotti/servizi presso rivenditori locali".
+  content: "Come organizzazione puoi acquistare un budget di mobilita' e distribuirlo ai membri della tua community (ad esempio i collaboratori della tua azienda) in modo flessibile. Questi membri possono poi trasformare questo budget in "punti ummadum" spostandosi in modo sostenibile, ad esempio camminando, andando in bicicletta o facendo car pooling. I "punti ummadum" possono infine essere utilizzati per acquistare prodotti/servizi presso rivenditori locali".
   cta_label: Scopri dove possono essere convertiti i punti ummadum
   cta_link: "#shopping-points"
   text_overlay: 1km = 10 punti = 0.10€
@@ -97,8 +97,8 @@ discover_partner:
 
 discover_community:
   img_link: "img/Mitfahrgelegenheit_2.png"
-  title: "Entra all'interno di un ecosistema per la sostenibilità"
-  content: "Le persone possono appartenere a una o più communities e ricevere più budget di mobilità. Le persone possono anche entrare in contatto con persone appartenenti ad altre comunità; per il car pooling questo è particolarmente importante perché aiuta a costruire una massa critica di utenti che vogliono muoversi in modo sostenibile."
+  title: "Entra all'interno di un ecosistema per la sostenibilita'"
+  content: "Le persone possono appartenere a una o più communities e ricevere più budget di mobilita'. Le persone possono anche entrare in contatto con persone appartenenti ad altre comunità; per il car pooling questo è particolarmente importante perché aiuta a costruire una massa critica di utenti che vogliono muoversi in modo sostenibile."
   cta_label: Contattaci e inizia questo viaggio nella smart sustainable mobility.
   cta_link: "mailto:office@ummadum.com"
 
