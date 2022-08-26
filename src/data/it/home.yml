@@ -71,7 +71,7 @@ community:
   img_three_desc: Supporto alla sperimentazione
 
 communityShops:
-  title: "Elenco di negozi in cui gli shopping points possono essere convertiti in prodotti e servizi da acquistare:"
+  title: "Elenco di negozi in cui i punti shopping possono essere convertiti in prodotti e servizi da acquistare:"
   img_one: "/img/despar.png"
   img_one_name: Despar
   img_one_link: https://www.despar.it
@@ -85,74 +85,86 @@ communityShops:
   img_three_link: https://www.sportler.com
 
 discover_partner:
-  img_link: "/img/maximilian-wachter-Zigz7HdNS7I-unsplash.png"
-
-  title: Un innovativo sistema a punti
-  content: Con CarPooling non paghi, spendi punti come passeggero e li guadagni da autista. Potrai poi spenderli all’interno dei nostri negozi convenzionati. I punti li puoi acquistare direttamente del sito web Ummadum, oppure sarà direttamente il tuo datore di lavoro a caricarli.
-  cta_label: Scopri i negozi partner
-  cta_link: "#"
-  text_overlay: 1km = 10 points = 0.10€
-  text_overlay_car: 10 points / km for car pooling
-  text_overlay_bike: 20 points / km for bike
-  text_overlay_walking: 30 points / km for walking
+  img_link: "img/Mitfahrgelegenheit_1.png"
+  title: "Acquista e distribuisci un budget di mobilità all'interno della tua organizzazione"
+  content: "Come organizzazione puoi acquistare un budget di mobilità e distribuirlo ai membri della tua community (ad esempio i collaboratori della tua azienda) in modo flessibile. Questi membri possono poi trasformare questo budget in "punti ummadum" spostandosi in modo sostenibile, ad esempio camminando, andando in bicicletta o facendo car pooling. I "punti ummadum" possono infine essere utilizzati per acquistare prodotti/servizi presso rivenditori locali".
+  cta_label: Scopri dove possono essere convertiti i punti ummadum
+  cta_link: "#shopping-points"
+  text_overlay: 1km = 10 punti = 0.10€
+  text_overlay_car: 10 punti / km per spostamenti in car pooling
+  text_overlay_bike: 20 punti / km per spostamenti in bici
+  text_overlay_walking: 30 punti / km per spostamenti a piedi
 
 discover_community:
-  img_link: "/img/darwin-vegher-IAc1x02D9K0-unsplash.png"
-
-  title: La community di cui ti fidi
-  content: CarPooling permette di cercare e prenotare autisti solo da comunità di persone che conosci e di cui ti fidi, come i tuoi colleghi di lavoro o amici del tuo club sportivo. Non viaggerai mai più cono sconosciuti.
-  cta_label: Prenota viaggio
-  cta_link: "#"
+  img_link: "img/Mitfahrgelegenheit_2.png"
+  title: "Entra all'interno di un ecosistema per la sostenibilità"
+  content: "Le persone possono appartenere a una o più communities e ricevere più budget di mobilità. Le persone possono anche entrare in contatto con persone appartenenti ad altre comunità; per il car pooling questo è particolarmente importante perché aiuta a costruire una massa critica di utenti che vogliono muoversi in modo sostenibile."
+  cta_label: Contattaci e inizia questo viaggio nella smart sustainable mobility.
+  cta_link: "mailto:office@ummadum.com"
 
 steps:
-  title: In un attimo sei a bordo
+  title: Come funziona?
 
   step:
     - step_count: 1
       img_link: "/img/christin-hume-Hcfwew744z4-unsplash@2x.png"
       img_alt: Person subscribing from laptop
-      title: Registrati su ummadum
-      content: Con CarPooling non paghi, spendi punti come passeggero e li guadagni da autista.
-      cta_label: Registrati ora
-      cta_link: "#"
+      title: Contatta ummadum e richiedi di entrare nella community
+      content: "È semplice: basta scrivere una mail ed in breve tempo ti contatteremo per organizzare un primo incontro in cui verranno presentati più nel dettaglio il sistema e le modalità per partecipare a questa iniziativa pilota."
+      cta_label: Contattaci
+      cta_link: "mailto:office@ummadum.com"
     - step_count: 2
-      img_link: "/img/christin-hume-Hcfwew744z4-unsplash@2x.png"
-      img_alt: Person subscribing from laptop
-      title: Ricarica i punti
-      content: Con CarPooling non paghi, spendi punti come passeggero e li guadagni da autista.
-      cta_label: Registrati ora
-      cta_link: "#"
+      img_link: "img/Community.png"
+      img_alt: Community of people
+      title: Decidi con ummadum come configurare il sistema all'interno della tua organizzazione
+      content: "Una volta deciso di aderire a questa community, il team di ummadum vi aiuterà a decidere come configurare al meglio la distribuzione del budget di mobilità nella vostra organizzazione. Questo è strettamente legato alla scelta dei gruppi di utenti che saranno inizialmente coinvolti. Ummadum sarà responsabile dell'implementazione di tutte le configurazioni decise". 
+      cta_label: Contattaci
+      cta_link: "mailto:office@ummadum.com"
     - step_count: 3
-      img_link: "/img/christin-hume-Hcfwew744z4-unsplash@2x.png"
-      img_alt: Person subscribing from laptop
-      title: Prenota il tuo viaggio
-      content: Con CarPooling non paghi, spendi punti come passeggero e li guadagni da autista.
-      cta_label: Registrati ora
-      cta_link: "#"
+      img_link: "img/carpooling3.png"
+      img_alt: People making car pooling
+      title: Distribuisci i punti tra i membri della tua organizzazione e motivali a muoversi in maniera sostenibile
+      content: "L'ultimo compito preparatorio riguarda l'assegnazione del budget di mobilità ai membri della propria community attraverso il portale ummadum. Si tratta di un compito facile che ciascuno può svolgere in autonoma, dopo una rapida formazione. Per ottenere risultati soddisfacenti, si raccomanda vivamente di coinvolgere e motivare il vostro gruppo di utenti fin dall'inizio".
+      cta_label: Contattaci
+      cta_link: "mailto:office@ummadum.com"
+    - step_count: 4
+      img_link: "/img/shopping.png"
+      img_alt: People enjoying their ummadum points
+      title: Misura il progresso del comportamento di mobilità sostenibile dei tuoi utenti
+      content: "Attraverso il portale ummadum è possibile verificare come il budget è stato utilizzato dagli utenti e quanti punti hanno trasformato. Il portale fornisce anche utili KPI per valutare quantitativamente l'impatto ambientale prodotto (ad esempio, il risparmio di emissioni di CO2). Potete utilizzare queste informazioni per capire come perfezionare le vostre misure di comunicazione interna. Lo staff di ummadum può aiutarvi anche in questo!". 
+      cta_label: Contattaci
+      cta_link: "mailto:office@ummadum.com" 
 
 become_partner:
   title: Diventa partner
-  content: CarPooling non va oltre i semplici autisti e passeggeri, ma da un’intera community di aziende e negozi partner che stanno contribuendo a rivoluzionare il mondo dei trasporti sostenibili in Alto Adige.
+  content: Vuoi diventare partner di questa community? Identifica il tuo possibile ruolo(i) e contattaci!
 
 boxes:
   box:
     - name: Per aziende
-      content: Con CarPooling non paghi, spendi punti come passeggero e li guadagni da autista.
-      box_link: "#"
-      btn_label: Aderisci
-    - name: Per punti vendita
-      content: Con CarPooling non paghi, spendi punti come passeggero e li guadagni da autista.
-      box_link: "#"
-      btn_label: Aderisci
-    - name: Per associazioni
-      content: Con CarPooling non paghi, spendi punti come passeggero e li guadagni da autista.
-      box_link: "#"
-      btn_label: Aderisci
+      content: Il servizio ummadum può essere un servizio potente per motivare i propri dipendenti a raggiungere il loro posto di lavoro in modo sostenibile. Unitevi a noi e create la vostra community.
+      box_link: "mailto:office@ummadum.com"
+      btn_label: Contattaci
+    - name: Per negozi
+      content: Il servizio ummadum può essere un ulteriore canale per aumentare i propri clienti. Ogni mese il sistema ummadum riacquista tutti i punti incassati dagli utenti.
+      box_link: "mailto:office@ummadum.com"
+      btn_label: Contattaci
+    - name: Per enti pubblici
+      content: Anche gli enti pubblici possono promuovere una mobilità sostenibile nell'area di propria competenza. Unisciti a noi e crea la tua community in modo che gli utenti possano avere punti aggiuntivi da utilizzare.
+      box_link: "mailto:office@ummadum.com"
+      btn_label: Contattaci
 
 faq:
   title: Frequently Asked Questions
   accordion:
-    - question: Con CarPooling non paghi, spendi punti come passeggero?
-      answer: Con CarPooling non paghi, spendi punti come passeggero e li guadagni da autista.
-    - question: Con CarPooling non paghi, spendi punti come passeggero?
-      answer: Con CarPooling non paghi, spendi punti come passeggero e li guadagni da autista.
+    - question: Come funziona l'assegnazione del budget di mobilità agli utenti?
+      answer: Ogni organizzazione può gestire autonomamente questo processo attraverso una dashboard web, disponibile anche per monitorare i risultati dell'utilizzo del sistema. Questi dettagli vengono discussi e approfonditi con ummadum durante il processo di configurazione del sistema in base alle esigenze dell'organizzazione.
+    - question: Il sistema permette di certificare i movimenti degli utenti?
+      answer: Gli spostamenti a piedi, in bicicletta e in car pooling sono certificati grazie a un meccanismo di monitoraggio automatico basato sul segnale GPS dello smartphone. Questo monitoraggio è funzionale solo alla verifica dell'esecuzione di un viaggio: dopo questo controllo le posizioni GPS degli utenti vengono cancellate.
+    - question: Quali sono le agevolazioni fiscali possibili per un'organizzazione?
+      answer: Tutte le indicazioni in merito sono contenute in una nota dell'Agenzia delle Entrate (nota 461 / 2019)
+    - question: Esiste un meccanismo per giudicare l'affidabilità degli utenti?
+      answer: Gli utenti hanno a disposizione una funzione di rating con la quale possono valutare (da 1 a 5 stelle) l'affidabilità e la serietà degli altri utenti. Gli utenti che dimostrano un comportamento inadeguato vengono prima avvertiti e, in casi estremi, bloccati.
+    - question: Come vengono garantite la sicurezza e la privacy degli utenti?
+      answer: L'intero sistema è progettato secondo il principio "privacy by default / privacy by design", in conformità con la direttiva GDPR. Tutte le comunicazioni tra i vari componenti del sistema (ad es. APP, sistemi back-end) sono criptate e vengono salvati solo i dati strettamente necessari agli utenti. L'accesso ai sistemi è sicuro, tramite nome utente e password. I dati degli utenti e delle organizzazioni che decidono di cancellarsi dal sistema vengono cancellati.      
+
