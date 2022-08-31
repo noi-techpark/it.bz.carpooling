@@ -158,11 +158,11 @@ faq:
   accordion:
     - question: Come funziona l'assegnazione del budget di mobilità agli utenti?
       answer: Ogni organizzazione può gestire autonomamente questo processo attraverso una dashboard web, disponibile anche per monitorare i risultati dell'utilizzo del sistema. Questi dettagli vengono discussi e approfonditi con ummadum durante il processo di configurazione del sistema in base alle esigenze dell'organizzazione.    
-    - question: Il sistema permette di certificare i movimenti degli utenti?
-      answer: Gli spostamenti a piedi, in bicicletta e in car pooling sono certificati grazie a un meccanismo di monitoraggio automatico basato sul segnale GPS dello smartphone. Questo monitoraggio è funzionale solo alla verifica dell'esecuzione di un viaggio: dopo questo controllo le posizioni GPS degli utenti vengono cancellate.
+    - question: Il sistema consente di certificare i movimenti degli utenti?
+      answer: Gli spostamenti a piedi, in bici ed in car pooling sono certificati grazie ad un meccanismo di monitoraggio automatico basato sul segnale GPS dello smartphone. Questo monitoraggio è funzionale solo alla verifica dell'esecuzione di un viaggio. Dopo questo controllo le posizioni GPS degli utenti vengono cancellate.
     - question: Quali sono le agevolazioni fiscali possibili per un'organizzazione?
       answer: Tutte le indicazioni in merito sono contenute in una nota dell'Agenzia delle Entrate (nota 461 / 2019)
     - question: Esiste un meccanismo per giudicare l'affidabilità degli utenti?
       answer: Gli utenti hanno a disposizione una funzione di rating con la quale possono valutare (da 1 a 5 stelle) l'affidabilità e la serietà degli altri utenti. Gli utenti che dimostrano un comportamento inadeguato vengono prima avvertiti e, in casi estremi, bloccati.
     - question: Come vengono garantite la sicurezza e la privacy degli utenti?
-      answer: L'intero sistema è progettato secondo il principio "privacy by default / privacy by design", in conformità con la direttiva GDPR. Tutte le comunicazioni tra i vari componenti del sistema (ad es. APP, sistemi back-end) sono criptate e vengono salvati solo i dati strettamente necessari agli utenti. L'accesso ai sistemi è sicuro, tramite nome utente e password. I dati degli utenti e delle organizzazioni che decidono di cancellarsi dal sistema vengono cancellati.
+      answer: L'intero sistema è progettato secondo il principio "privacy by default / privacy by design", in conformità con la direttiva GDPR. Tutte le comunicazioni tra i vari componenti del sistema (ad es. APP, sistemi back-end) sono criptate e vengono salvati solo i dati strettamente necessari agli utenti. L'accesso ai sistemi è sicuro, tramite nome utente e password. I dati degli utenti e delle organizzazioni che decidono di cancellarsi dal sistema vengono cancellati.      
