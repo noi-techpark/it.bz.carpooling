@@ -10,82 +10,82 @@ offset_image:
 testing_companies:
   title: Le aziende che stanno testando il servizio di car pooling
   list:
-    - img: "img/IPRONA.png"
+    - img: "/img/IPRONA.png"
       name: IPRONA
       link: https://www.iprona.com
-    - img: "img/DrSchar.png"
+    - img: "/img/DrSchar.png"
       name: "Dr. Schär"
       link: https://www.drschaer.com
-    - img: "img/MEMC.png"
+    - img: "/img/MEMC.png"
       name: MEMC
       link: https://www.gw-semi.com/
-    - img: "img/oberalp.png"
+    - img: "/img/oberalp.png"
       name: Oberalp
       link: https://www.oberalp.com
-    - img: "img/sportler.png"
+    - img: "/img/sportler.png"
       name: Sportler
       link: https://www.sportler.com
-    - img: "img/idm.png"
+    - img: "/img/idm.png"
       name: "IDM Suedtirol"
       link: https://www.idm-suedtirol.com
-    - img: "img/NOI_1_BK.png"
+    - img: "/img/NOI_1_BK.png"
       name: "NOI Techpark"
       link: https://noi.bz.it/
-    - img: "img/systent.png"
+    - img: "/img/systent.png"
       name: "systent"
       link: https://www.systent.it
-    - img: "img/EURAC.png"
+    - img: "/img/EURAC.png"
       name: "EURAC"
       link: https://www.eurac.edu
-    - img: "img/UNIBZ.png"
+    - img: "/img/UNIBZ.png"
       name: "UNIBZ"
       link: https://www.unibz.it
-    - img: "img/Doppelmayr.png"
+    - img: "/img/Doppelmayr.png"
       name: "Doppelmayr"
       link: https://www.doppelmayr.com
-    - img: "img/Alperia.png"
+    - img: "/img/Alperia.png"
       name: "Alperia"
       link: https://www.alperia.eu
-    - img: "img/hgv.png"
+    - img: "/img/hgv.png"
       name: "HGV"
       link: https://www.hgv.it
-    - img: "img/FraunhoferItalia.png"
+    - img: "/img/FraunhoferItalia.png"
       name: "Fraunhofer Italia"
       link: https://www.fraunhofer.it/
 
 community:
   title: "Organizzazioni coinvolte"
-  img_one: "img/NOI_1_BK.png"
+  img_one: "/img/NOI_1_BK.png"
   img_one_name: NOI Techpark
   img_one_link: https://noi.bz.it/
   img_one_desc: Pilot project coordination
 
-  img_two: "img/BZG.png"
+  img_two: "/img/BZG.png"
   img_two_name: "Bezirksgemeinschaft Burggrafenamt"
   img_two_link: https://www.bzgbga.it/
   img_two_desc: Pilot project support
 
-  img_three: "img/STA_v2.png"
+  img_three: "/img/STA_v2.png"
   img_three_name: STA
   img_three_link: https://www.sta.bz.it
   img_three_desc: Pilot project support
 
 communityShops:
   title: "Elenco di negozi in cui i punti shopping possono essere convertiti in prodotti e servizi da acquistare:"
-  img_one: "img/despar.png"
+  img_one: "/img/despar.png"
   img_one_name: Despar
   img_one_link: https://www.despar.it
 
-  img_two: "img/biokiste.png"
+  img_two: "/img/biokiste.png"
   img_two_name: Biokistl Südtirol
   img_two_link: https://www.biokistl.it
   
-  img_three: "img/sportler.png"
+  img_three: "/img/sportler.png"
   img_three_name: Sportler
   img_three_link: https://www.sportler.com
 
 discover_partner:
-  img_link: "img/Mitfahrgelegenheit_1.png"
+  img_link: "/img/Mitfahrgelegenheit_1.png"
   title: "Acquista e distribuisci un budget di mobilità nella tua organizzazione"
   content: "Come organizzazione puoi acquistare un budget di mobilità e distribuirlo ai membri della tua community (ad esempio i collaboratori della tua azienda) in modo flessibile. Questi membri possono poi trasformare questo budget in punti ummadum spostandosi in modo sostenibile, ad esempio camminando, andando in bicicletta o facendo car pooling. I punti ummadum possono infine essere utilizzati per acquistare prodotti o servizi presso rivenditori locali"
   cta_label: Scopri dove possono essere convertiti i punti ummadum
@@ -96,7 +96,7 @@ discover_partner:
   text_overlay_walking: 30 punti / km per spostamenti a piedi
 
 discover_community:
-  img_link: "img/Mitfahrgelegenheit_2.png"
+  img_link: "/img/Mitfahrgelegenheit_2.png"
   title: "Entra all'interno di un ecosistema per la sostenibilità"
   content: "Le persone possono appartenere a una o più communities e ricevere più budget di mobilita'. Le persone possono anche entrare in contatto con persone appartenenti ad altre comunità; per il car pooling questo è particolarmente importante perché aiuta a costruire una massa critica di utenti che vogliono muoversi in modo sostenibile."
   cta_label: Contattaci e inizia questo viaggio nella smart sustainable mobility.
@@ -106,21 +106,21 @@ steps:
   title:  Come funziona?
   step:
     - step_count: 1
-      img_link: "img/christin-hume-Hcfwew744z4-unsplash@2x.png"
+      img_link: "/img/christin-hume-Hcfwew744z4-unsplash@2x.png"
       img_alt: Person subscribing from laptop
       title: Contatta ummadum e richiedi di entrare nella community
       content: "È semplice: basta scrivere una mail ed in breve tempo ti contatteremo per organizzare un primo incontro in cui verranno presentati più nel dettaglio il sistema e le modalità per partecipare a questa iniziativa pilota."
       cta_label: Contattaci
       cta_link: "mailto:office@ummadum.com"
     - step_count: 2
-      img_link: "img/Community.png"
+      img_link: "/img/Community.png"
       img_alt: Community of people
       title: Decidi con ummadum come configurare il sistema all'interno della tua organizzazione
       content: "Una volta deciso di aderire a questa community, il team di ummadum vi aiuterà a decidere come configurare al meglio la distribuzione del budget di mobilità nella vostra organizzazione. Questo è strettamente legato alla scelta dei gruppi di utenti che saranno inizialmente coinvolti. Ummadum sarà responsabile dell'implementazione di tutte le configurazioni decise." 
       cta_label: Contattaci
       cta_link: "mailto:office@ummadum.com"
     - step_count: 3
-      img_link: "img/carpooling3.png"
+      img_link: "/img/carpooling3.png"
       img_alt: People making car pooling
       title: Distribuisci i punti tra i membri della tua organizzazione e motivali a muoversi in maniera sostenibile
       content: "L'ultimo compito preparatorio riguarda l'assegnazione del budget di mobilità ai membri della propria community attraverso il portale ummadum. Si tratta di un compito facile che ciascuno può svolgere in autonoma, dopo una rapida formazione. Per ottenere risultati soddisfacenti, si raccomanda vivamente di coinvolgere e motivare il vostro gruppo di utenti fin dall'inizio."
