@@ -10,77 +10,77 @@ offset_image:
 testing_companies:
   title: Unternehmen, die den Carpooling-Dienst testen
   list:
-    - img: "img/IPRONA.png"
+    - img: "/img/IPRONA.png"
       name: IPRONA
       link: https://www.iprona.com
-    - img: "img/DrSchar.png"
+    - img: "/img/DrSchar.png"
       name: "Dr. Schär"
       link: https://www.drschaer.com
-    - img: "img/MEMC.png"
+    - img: "/img/MEMC.png"
       name: MEMC
       link: https://www.gw-semi.com/
-    - img: "img/oberalp.png"
+    - img: "/img/oberalp.png"
       name: Oberalp
       link: https://www.oberalp.com
-    - img: "img/sportler.png"
+    - img: "/img/sportler.png"
       name: Sportler
       link: https://www.sportler.com
-    - img: "img/idm.png"
+    - img: "/img/idm.png"
       name: "IDM Suedtirol"
       link: https://www.idm-suedtirol.com
-    - img: "img/NOI_1_BK.png"
+    - img: "/img/NOI_1_BK.png"
       name: "NOI Techpark"
       link: https://noi.bz.it/
-    - img: "img/systent.png"
+    - img: "/img/systent.png"
       name: "systent"
       link: https://www.systent.it
-    - img: "img/EURAC.png"
+    - img: "/img/EURAC.png"
       name: "EURAC"
       link: https://www.eurac.edu
-    - img: "img/UNIBZ.png"
+    - img: "/img/UNIBZ.png"
       name: "UNIBZ"
       link: https://www.unibz.it
-    - img: "img/Doppelmayr.png"
+    - img: "/img/Doppelmayr.png"
       name: "Doppelmayr"
       link: https://www.doppelmayr.com
-    - img: "img/Alperia.png"
+    - img: "/img/Alperia.png"
       name: "Alperia"
       link: https://www.alperia.eu
-    - img: "img/hgv.png"
+    - img: "/img/hgv.png"
       name: "HGV"
       link: https://www.hgv.it
-    - img: "img/FraunhoferItalia.png"
+    - img: "/img/FraunhoferItalia.png"
       name: "Fraunhofer Italia"
       link: https://www.fraunhofer.it/
 
 community:
   title: "Beteiligte Organisationen"
-  img_one: "img/NOI_1_BK.png"
+  img_one: "/img/NOI_1_BK.png"
   img_one_name: NOI Techpark
   img_one_link: https://noi.bz.it/
   img_one_desc: Koordinierung des Pilotprojekts
 
-  img_two: "img/BZG.png"
+  img_two: "/img/BZG.png"
   img_two_name: "Bezirksgemeinschaft Burggrafenamt"
   img_two_link: https://www.bzgbga.it/
   img_two_desc: Unterstützung vom Pilotprojekt
 
-  img_three: "img/STA_v2.png"
+  img_three: "/img/STA_v2.png"
   img_three_name: STA
   img_three_link: https://www.sta.bz.it
   img_three_desc: Unterstützung vom Pilotprojekt
   
 communityShops:
   title: "Liste von Geschäften, in denen Einkaufspunkte in Produkte und Dienstleistungen umgewandelt werden können, die zu kaufen sind:"
-  img_one: "img/despar.png"
+  img_one: "/img/despar.png"
   img_one_name: Despar
   img_one_link: https://www.despar.it
 
-  img_two: "img/biokiste.png"
+  img_two: "/img/biokiste.png"
   img_two_name: Biokistl Südtirol
   img_two_link: https://www.biokistl.it
   
-  img_three: "img/sportler.png"
+  img_three: "/img/sportler.png"
   img_three_name: Sportler
   img_three_link: https://www.sportler.com
 
