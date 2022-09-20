@@ -1,25 +1,88 @@
 offset_image:
-  title: Il car pooling sicuro e vicino.
-  content: CarPooling è un servizio di car pooling che permette di prenotare viaggi all’interno di comunità ristrette e conosciute, come la realtà di un’azienda o associazione sportiva, così da permetterti di viaggiare sempre con persone di cui ti fidi.
-  cta_label: Prenota viaggio
-  cta_link: "#"
+  title: Eine Lösung für nachhaltige Mobilität in Südtiroler Unternehmen
+  content: Im Rahmen des EU-Projekts MENTOR wurden verschiedene neue intelligente Mobilitätsdienste eingeführt, um eine nachhaltige Alternative zum privaten Auto zu schaffen. Einer dieser Dienste ist ein neuer Car-Pooling-Service, der in Zusammenarbeit mit dem Unternehmen ummadum eingeführt wurde. Der innovative Aspekt ist die Möglichkeit für die Nutzer, Punkte zu sammeln, die für den Kauf lokaler Produkte und Dienstleistungen verwendet werden können.
+  cta_label: Mehr Informationen über das EU-Projekt MENTOR
+  cta_link: "https://www.comune.merano.bz.it/de/Projekt_MENTOR"
 
   image_alt: Consume Data
-  image_link: "/img/junior-reis-98AVD0fctzA-unsplash.png"
+  image_link: "/img/background.png"
+
+testing_companies:
+  title: Unternehmen, die den Carpooling-Dienst testen
+  list:
+    - img: "img/IPRONA.png"
+      name: IPRONA
+      link: https://www.iprona.com
+    - img: "img/DrSchar.png"
+      name: "Dr. Schär"
+      link: https://www.drschaer.com
+    - img: "img/MEMC.png"
+      name: MEMC
+      link: https://www.gw-semi.com/
+    - img: "img/oberalp.png"
+      name: Oberalp
+      link: https://www.oberalp.com
+    - img: "img/sportler.png"
+      name: Sportler
+      link: https://www.sportler.com
+    - img: "img/idm.png"
+      name: "IDM Suedtirol"
+      link: https://www.idm-suedtirol.com
+    - img: "img/NOI_1_BK.png"
+      name: "NOI Techpark"
+      link: https://noi.bz.it/
+    - img: "img/systent.png"
+      name: "systent"
+      link: https://www.systent.it
+    - img: "img/EURAC.png"
+      name: "EURAC"
+      link: https://www.eurac.edu
+    - img: "img/UNIBZ.png"
+      name: "UNIBZ"
+      link: https://www.unibz.it
+    - img: "img/Doppelmayr.png"
+      name: "Doppelmayr"
+      link: https://www.doppelmayr.com
+    - img: "img/Alperia.png"
+      name: "Alperia"
+      link: https://www.alperia.eu
+    - img: "img/hgv.png"
+      name: "HGV"
+      link: https://www.hgv.it
+    - img: "img/FraunhoferItalia.png"
+      name: "Fraunhofer Italia"
+      link: https://www.fraunhofer.it/
 
 community:
-  title: È già utilizzato da oltre 4k viaggiatori e 200 aziende
-  img_one: "/img/leitner.png"
-  img_one_name: Leitner
-  img_one_link: https://www.leitner.com/
+  title: "Beteiligte Organisationen"
+  img_one: "img/NOI_1_BK.png"
+  img_one_name: NOI Techpark
+  img_one_link: https://noi.bz.it/
+  img_one_desc: Koordinierung des Pilotprojekts
 
-  img_two: "/img/noi-techpark.png"
-  img_two_name: NOI Techpark
-  img_two_link: https://noi.bz.it/
+  img_two: "img/BZG.png"
+  img_two_name: "Bezirksgemeinschaft Burggrafenamt"
+  img_two_link: https://www.bzgbga.it/
+  img_two_desc: Unterstützung vom Pilotprojekt
 
-  img_three: "/img/idm.png"
-  img_three_name: IDM Suedtirol
-  img_three_link: https://www.idm-suedtirol.com
+  img_three: "img/STA_v2.png"
+  img_three_name: STA
+  img_three_link: https://www.sta.bz.it
+  img_three_desc: Unterstützung vom Pilotprojekt
+  
+communityShops:
+  title: "Liste von Geschäften, in denen Einkaufspunkte in Produkte und Dienstleistungen umgewandelt werden können, die zu kaufen sind:"
+  img_one: "img/despar.png"
+  img_one_name: Despar
+  img_one_link: https://www.despar.it
+
+  img_two: "img/biokiste.png"
+  img_two_name: Biokistl Südtirol
+  img_two_link: https://www.biokistl.it
+  
+  img_three: "img/sportler.png"
+  img_three_name: Sportler
+  img_three_link: https://www.sportler.com
 
 discover_partner:
   img_link: "/img/maximilian-wachter-Zigz7HdNS7I-unsplash.png"
