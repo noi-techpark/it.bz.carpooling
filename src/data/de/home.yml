@@ -85,16 +85,15 @@ communityShops:
   img_three_link: https://www.sportler.com
 
 discover_partner:
-  img_link: "/img/maximilian-wachter-Zigz7HdNS7I-unsplash.png"
-
-  title: Un innovativo sistema a punti
-  content: Con CarPooling non paghi, spendi punti come passeggero e li guadagni da autista. Potrai poi spenderli all’interno dei nostri negozi convenzionati. I punti li puoi acquistare direttamente del sito web Ummadum, oppure sarà direttamente il tuo datore di lavoro a caricarli.
-  cta_label: Scopri i negozi partner
+  img_link: "/img/Mitfahrgelegenheit_1.png"
+  title: Kauf und verteile ein Mobilitätsbudget in deinem Community
+  content: Als Organisation kann man ein Mobilitätsbudget kaufen und es flexibel auf die Mitglieder von der eigenen Gemeinschaft (z.B. Mitarbeiter von einem Unternehmen) verteilen. Diese Mitglieder können dieses Budget dann in "ummadum-Punkte" umwandeln, indem sie sich nachhaltig bewegen, d.h. zu Fuß gehen, Fahrrad fahren oder Fahrgemeinschaften bilden. Die "ummadum-Punkte" können schließlich zum Kauf von Produkten/Dienstleistungen bei lokalen Einlösestellen verwendet werden.
+  cta_label: Schaue hier, wo Mobilitätspunkte umgewandelt werden können
   cta_link: "#"
   text_overlay: 1km = 10 points = 0.10€
-  text_overlay_car: 10 points / km for car pooling
-  text_overlay_bike: 20 points / km for bike
-  text_overlay_walking: 30 points / km for walking
+  text_overlay_car: 10 Punkte / km - Car Pooling
+  text_overlay_bike: 20 Punkte / km - Fahrrad
+  text_overlay_walking: 30 Punkte / km - zu Fuß  
 
 discover_community:
   img_link: "/img/darwin-vegher-IAc1x02D9K0-unsplash.png"
