@@ -86,8 +86,8 @@ communityShops:
 
 discover_partner:
   img_link: "/img/Mitfahrgelegenheit_1.png"
-  title: Kauf und verteile ein Mobilitätsbudget in deinem Community
-  content: Als Organisation kann man ein Mobilitätsbudget kaufen und es flexibel auf die Mitglieder von der eigenen Gemeinschaft (z.B. Mitarbeiter von einem Unternehmen) verteilen. Diese Mitglieder können dieses Budget dann in "ummadum-Punkte" umwandeln, indem sie sich nachhaltig bewegen, d.h. zu Fuß gehen, Fahrrad fahren oder Fahrgemeinschaften bilden. Die "ummadum-Punkte" können schließlich zum Kauf von Produkten/Dienstleistungen bei lokalen Einlösestellen verwendet werden.
+  title: Kauf und verteile ein Mobilitätsbudget in deiner Community
+  content: Als Organisation kann man ein Mobilitätsbudget kaufen und es flexibel auf die Mitglieder von der eigenen Community (z.B. Mitarbeiter von einem Unternehmen) verteilen. Diese Mitglieder können dieses Budget dann in "ummadum-Punkte" umwandeln, indem sie sich nachhaltig bewegen, d.h. zu Fuß gehen, Fahrrad fahren oder Fahrgemeinschaften bilden. Die "ummadum-Punkte" können schließlich zum Kauf von Produkten/Dienstleistungen bei lokalen Einlösestellen verwendet werden.
   cta_label: Schaue hier, wo Mobilitätspunkte umgewandelt werden können
   cta_link: "#"
   text_overlay: 1km = 10 points = 0.10€
@@ -96,12 +96,11 @@ discover_partner:
   text_overlay_walking: 30 Punkte / km - zu Fuß  
 
 discover_community:
-  img_link: "/img/darwin-vegher-IAc1x02D9K0-unsplash.png"
-
-  title: La community di cui ti fidi
-  content: CarPooling permette di cercare e prenotare autisti solo da comunità di persone che conosci e di cui ti fidi, come i tuoi colleghi di lavoro o amici del tuo club sportivo. Non viaggerai mai più cono sconosciuti.
-  cta_label: Prenota viaggio
-  cta_link: "#"
+  img_link: "/img/Mitfahrgelegenheit_2.png"
+  title: Die Community, der man vertraut 
+  content: Die Nutzer können einer oder mehreren Communities angehören und erhalten mehrere Mobilitätsbudgets. Die Nutzer können auch mit Nutzern aus anderen Communities in Kontakt treten; für Fahrgemeinschaften ist dies besonders wichtig, da es dazu beiträgt, eine kritische Masse von Nutzern aufzubauen, die sich nachhaltig fortbewegen wollen."
+  cta_label: Kontaktiere uns und beginn die Reise in die intelligente, nachhaltige Mobilität
+  cta_link: "mailto:office@ummadum.com"
 
 steps:
   title: In un attimo sei a bordo
