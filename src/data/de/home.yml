@@ -103,30 +103,37 @@ discover_community:
   cta_link: "mailto:office@ummadum.com"
 
 steps:
-  title: In un attimo sei a bordo
+  title: Wie funktioniert das?
 
   step:
     - step_count: 1
       img_link: "/img/christin-hume-Hcfwew744z4-unsplash@2x.png"
       img_alt: Person subscribing from laptop
-      title: Registrati su ummadum
-      content: Con CarPooling non paghi, spendi punti come passeggero e li guadagni da autista.
-      cta_label: Registrati ora
-      cta_link: "#"
+      title: Kontaktiere ummadum und bitte zur Community beizutreten
+      content: "Es ist ganz einfach: einfach eine E-Mail an den Kundendienst schreiben, der in Kürze ein erstes Treffen organisieren wird, bei dem das System und die Modalitäten für die Teilnahme an diesem Pilotprojekt ausführlicher vorgestellt werden."
+      cta_label: Konkaktiere uns
+      cta_link: "mailto:office@ummadum.com"
     - step_count: 2
-      img_link: "/img/christin-hume-Hcfwew744z4-unsplash@2x.png"
+      img_link: "/img/Community.png"
       img_alt: Person subscribing from laptop
-      title: Ricarica i punti
-      content: Con CarPooling non paghi, spendi punti come passeggero e li guadagni da autista.
-      cta_label: Registrati ora
-      cta_link: "#"
+      title: Mit ummadum entscheiden, wie das System in ihrer eigenen Organisation eingerichtet sein kann
+      content: "Sobald man für die Teilnahme an dieser Community sich entschieden hat, wird das ummadum-Team Sie unterstützen, wie die Verteilung des Mobilitätsbudgets in ihrer eigenen Community am besten gestaltet sein kan. Dies ist eng mit der Auswahl der Nutzergruppen verbunden, die anfänglich beteiligt sein werden. Ummadum wird dafür verantwortlich sein, alle vereinbarten Konfigurationsentscheidungen umzusetzen."
+      cta_label: Konkaktiere uns
+      cta_link: "mailto:office@ummadum.com"
     - step_count: 3
-      img_link: "/img/christin-hume-Hcfwew744z4-unsplash@2x.png"
+      img_link: "/img/carpooling3.png"
       img_alt: Person subscribing from laptop
-      title: Prenota il tuo viaggio
-      content: Con CarPooling non paghi, spendi punti come passeggero e li guadagni da autista.
-      cta_label: Registrati ora
-      cta_link: "#"
+      title: Verteile die Punkte auf die Mitglieder der Organisation und motiviere sie, sich nachhaltig zu bewegen
+      content: "Die letzte vorbereitende Aufgabe besteht in der Zuweisung des Mobilitätsbudgets an die Mitglieder der Community über das ummadum-Portal. Dies ist eine einfache Aufgabe, die nach einer kurzen Schulung durch die ummadum-Mitarbeiter selbst erledigen kann. Für eine zufriedenstellende Durchführung der Nutzung des Dienstes ist es sehr empfehlenswert, die Nutzergruppe von Anfang an einzubeziehen und zu motivieren."
+      cta_label: Konkaktiere uns
+      cta_link: "mailto:office@ummadum.com"
+    - step_count: 4
+      img_link: "/img/shopping.png"
+      img_alt: People enjoying their ummadum points
+      title: Überwache den Fortschritt des nachhaltigen Mobilitätsverhaltens der Nutzer
+      content: "Über das ummadum-Portal kann man überprüfen, wie das Budget von den Nutzern verwendet wurde und wie viele Punkte sie gesammelt haben. Das Portal bietet auch nützliche KPIs, um den ökologischen Fußabdruck dieser Maßnahme quantitativ zu bewerten (z. B. CO2-Einsparungen). Anhand dieser Informationen kann man erkennen, wie die internen Kommunikationsmaßnahmen feiner abgestimmt sein können. Auch dabei können die Mitarbeiter von ummadum helfen!"
+      cta_label: Konkaktiere uns
+      cta_link: "mailto:office@ummadum.com"
 
 become_partner:
   title: Diventa partner
