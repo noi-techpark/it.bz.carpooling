@@ -136,23 +136,23 @@ steps:
       cta_link: "mailto:office@ummadum.com"
 
 become_partner:
-  title: Diventa partner
-  content: CarPooling non va oltre i semplici autisti e passeggeri, ma da un’intera community di aziende e negozi partner che stanno contribuendo a rivoluzionare il mondo dei trasporti sostenibili in Alto Adige.
+  title: Partner werden
+  content: Möchten Sie ein Partner in dieser Community werden? Identifizieren Sie Ihre mögliche(n) Rolle(n) und kontaktiere uns!
 
 boxes:
   box:
-    - name: Per aziende
-      content: Con CarPooling non paghi, spendi punti come passeggero e li guadagni da autista.
-      box_link: "#"
-      btn_label: Aderisci
-    - name: Per punti vendita
-      content: Con CarPooling non paghi, spendi punti come passeggero e li guadagni da autista.
-      box_link: "#"
-      btn_label: Aderisci
-    - name: Per associazioni
-      content: Con CarPooling non paghi, spendi punti come passeggero e li guadagni da autista.
-      box_link: "#"
-      btn_label: Aderisci
+    - name: Für Unternehmen
+      content: Der ummadum-Service kann ein wirkungsvoller Dienst sein, um Mitarbeiter zu motivieren, ihren Arbeitsplatz nachhaltig zu erreichen. Mach mit und schaffen Sie ihre Community!
+      box_link: "mailto:office@ummadum.com"
+      btn_label: Contact us
+    - name: Für Geschäfte
+      content: Der ummadum-Service kann ein zusätzlicher Kanal sein, um Kunden zu gewinnen. Alle Monate kauft das ummadum-System alle Punkte zurück, die Geschäft von den Nutzern gesammelt haben.
+      box_link: "mailto:office@ummadum.com"
+      btn_label: Contact us
+    - name: Für öffentliche Institutionen
+      content: Auch öffentliche Institutionen können die nachhaltige Mobilität in ihrem Zuständigkeitsbereich fördern. Mach mit und schaffen Sie ihre Community, damit die Nutzer zusätzliche Punkte nutzen können.
+      box_link: "mailto:office@ummadum.com"
+      btn_label: Contact us
 
 faq:
   title: Frequently Asked Questions
