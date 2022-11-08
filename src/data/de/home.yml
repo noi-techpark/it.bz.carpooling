@@ -157,7 +157,13 @@ boxes:
 faq:
   title: Frequently Asked Questions
   accordion:
-    - question: Con CarPooling non paghi, spendi punti come passeggero?
-      answer: Con CarPooling non paghi, spendi punti come passeggero e li guadagni da autista.
-    - question: Con CarPooling non paghi, spendi punti come passeggero?
-      answer: Con CarPooling non paghi, spendi punti come passeggero e li guadagni da autista.
+    - question: Wie funktioniert die Zuteilung des Mobilitätsbudgets an die Mitarbeiter?
+      answer: Jede Organisation kann diesen Prozess selbst über ein webbasiertes Dashboard verwalten, das auch zur Überwachung der Ergebnisse der Systemnutzung zur Verfügung gestellt wird. Diese Details werden mit ummadum während des Prozesses der Systemkonfiguration entsprechend den Bedürfnissen der Organisation im Detail erörtert und erforscht.
+    - question: Erlaubt das System, die Bewegungen von Benutzern zu zertifizieren?
+      answer: Die Fahrten zu Fuß, mit dem Fahrrad und in Fahrgemeinschaften werden dank eines automatischen Überwachungsmechanismus auf der Grundlage des GPS-Signals des Smartphones zertifiziert. Diese Überwachung dient nur dazu, die Durchführung einer Fahrt zu überprüfen, danach werden die GPS-Positionen der Nutzer automatisch gelöscht.
+    - question: Welche Steuervergünstigungen sind für eine Organisation möglich?
+      answer: Alle Angaben dazu finden sich in einer Mitteilung der Agenzia delle Entrate (Mitteilung 461 / 2019).
+    - question: Gibt es einen Mechanismus zur Beurteilung der Zuverlässigkeit der Nutzer?
+      answer: Nutzer haben eine Bewertungsfunktion, mit der sie die Zuverlässigkeit und Seriosität anderer Nutzer bewerten können (von 1 bis 5 Sternen). Nutzer, die ein unangemessenes Verhalten zeigen, werden zunächst ermahnt und im Extremfall von der Teilnahme am System gesperrt.
+    - question: Wie werden die Sicherheit und die Privatsphäre der Nutzer gewährleistet?
+      answer: Das gesamte System ist nach dem Prinzip "privacy by default / privacy by design" konzipiert, in Übereinstimmung mit der GDPR-Richtlinie. Die gesamte Kommunikation zwischen den verschiedenen Systemkomponenten (z. B. APPs, Backend-Systeme) ist verschlüsselt, und es werden nur Daten gespeichert, die für die Nutzer unbedingt erforderlich sind. Der Zugang zu den Systemen ist durch einen Benutzernamen und ein Passwort gesichert. Daten von Nutzern und Organisationen, die sich aus dem System abmelden, werden gelöscht.
