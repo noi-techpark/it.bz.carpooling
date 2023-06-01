@@ -1,0 +1,20 @@
+Format: https://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
+Upstream-Name: it.bz.beacon
+Upstream-Contact: NOI Techpark <digital@noi.bz.it>
+Source: https://github.com/noi-techpark/it.bz.beacon
+
+Files: .github/* infrastructure/* .gitignore src/static/* src/resources/* src/themes/ummadum/LICENSE src/.hugo_build.lock background.png
+Copyright: (c) NOI Techpark <digital@noi.bz.it>
+License: CC0-1.0
+
+Files: src/target/*
+Copyright: (c) NOI Techpark <digital@noi.bz.it>
+License: AGPL-3.0-or-later
+
+Files: src/themes/ummadum/static/css/bootstrap.css src/themes/ummadum/static/css/bootstrap.css.map
+Copyright: 2011-2015 Twitter, Inc.
+License: MIT
+
+Files: src/themes/ummadum/static/css/hamburgers.css src/themes/ummadum/static/css/hamburgers.css.map
+Copyright: Jonathan Suh @jonsuh
+License: MIT

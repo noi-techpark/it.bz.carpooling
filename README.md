@@ -1,3 +1,9 @@
+<!--
+SPDX-FileCopyrightText: NOI Techpark <digital@noi.bz.it>
+
+SPDX-License-Identifier: CC0-1.0
+-->
+
 # Ummadum - Alto Adige
 Repository for the [Carpooling](#) website created with [Hugo](https://gohugo.io/).
 
