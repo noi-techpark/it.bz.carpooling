@@ -1,7 +1,7 @@
 Format: https://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
-Upstream-Name: it.bz.beacon
+Upstream-Name: it.bz.carpooling
 Upstream-Contact: NOI Techpark <digital@noi.bz.it>
-Source: https://github.com/noi-techpark/it.bz.beacon
+Source: https://github.com/noi-techpark/it.bz.carpooling
 
 Files: .github/* infrastructure/* .gitignore src/static/* src/resources/* src/themes/ummadum/LICENSE src/.hugo_build.lock background.png
 Copyright: (c) NOI Techpark <digital@noi.bz.it>
