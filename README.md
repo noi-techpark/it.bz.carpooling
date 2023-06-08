@@ -7,6 +7,7 @@ SPDX-License-Identifier: CC0-1.0
 # Ummadum - Alto Adige
 Repository for the [Carpooling](#) website created with [Hugo](https://gohugo.io/).
 
+![REUSE Compliance](https://github.com/noi-techpark/it.bz.carpooling/actions/workflows/reuse.yml/badge.svg)
 [![CI/CD](https://github.com/noi-techpark/it.bz.carpooling/actions/workflows/main.yml/badge.svg)](https://github.com/noi-techpark/it.bz.carpooling/actions/workflows/main.yml)
 
 ## Table of contents
