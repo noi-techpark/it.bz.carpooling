@@ -102,7 +102,7 @@ For support, please contact [info@software.bz.it](mailto:info@software.bz.it).
 
 If you'd like to contribute, please follow the following instructions:
 
-https://docs.opendatahub.bz.it/en/latest/guidelines/contributors.html
+https://docs.opendatahub.com/en/latest/guidelines/contributors.html
 
 ### Documentation
 
